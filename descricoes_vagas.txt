@@ -1,0 +1,3865 @@
+Estamos em busca de um novo membro para nossa Grande Missão: promover um mundo melhor, mais humano e mais solidário.
+
+No Grupo Marista, nós temos um propósito claro: formar cidadãos éticos, justos e solidários por meio das três frentes de atuação – educação, solidariedade e saúde.
+
+Como Analista/ Cientista de Dados, você trabalhará na Diretoria de Estratégia e Marketing com os seguintes desafios:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Venha fazer parte desta Missão conosco. Inscreva-se até 12/08 e boa sorte.
+
+#sejamarista
+
+Quer saber como funciona nossos processos seletivos ou tem alguma outra dúvida, acesse nossa Página de Dúvidas frequentes: https://jobs.kenoby.com/duvidasfrequentesgrupomarista
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Filantropia
+Como parte do nosso time de Digital em São Paulo você irá atuar em um dos nossos grandes clientes do setor de telecomunicações.
+Responsabilidades e atribuições
+
+Você Irá
+
+Definir e implementar análises exploratórias de dados;
+Definir e implementar modelos estatísticos e computacionais, incluindo estratégias para lidar com grande volume de dados;
+Documentar suas estratégias de modelagem;
+Implementação de processo de melhoria contínua na qualidade e confiabilidade dos dados
+
+Requisitos e qualificações
+
+
+
+Conhecimento em análise e desenvolvimento de sistemas, definições de arquitetura e orientação a objetos.
+Conhecimento da linguagem de programação Java para o desenvolvimento de integrações, com demanda por alta performance e alta disponibilidade.
+Conhecimento de no mínimo uma das ferramentas de BigDataAWS: Athena, Glue, Redshift, EMR, S3, Spark, DynamoDB, KMS, Kafka, entre outros.
+Experiência com desenvolvimento para ambiente Unix/Linux.
+Conhecimento de programação orientada a objetos e design patterns.
+Forte preocupação com a qualidade das soluções, com atenção para as boas práticas.
+Eficácia na elaboração de testes unitários e funcionais.
+Experiência em prática com bancos de dados relacionais.
+Raciocínio lógico, senso crítico e agilidade na resolução de problemas.
+Proatividade, foco e boa capacidade de trabalho em equipe.
+Interesse em aprender e disposição para assimilar nossa cultura, bem como contribuir com ela.
+
+
+
+Conhecimento prática com BDD (ex.: Cucumber) e integração contínua (ex.: Jenkins).
+Conhecimentos de bancos de dados não relacionais.
+Conhecimento em BigData e processamento de alto volume de dados.
+Conhecimento em arquiteturas em Cloud.
+Conhecimento em sistemas distribuídos (Elastic Search).
+Conhecimento em linguagem de programação Python e/ou Scala para o desenvolvimento de integrações.
+
+Formação: Ciência da Computação; Engenharia da Computação, Sistemas da Informação ou áreas correlatas
+
+Idioma:Inglês Avançado
+
+Informações adicionais
+
+
+
+Salário base.
+Vale Refeição;
+Vale Transporte.
+Assistência Médica;
+Assistência Odontológica.
+Incentivos educacionais como bolsa auxílio ao inglês.
+Desenvolvimento profissional
+
+Local de Trabalho: Brooklin / ZS
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Somos uma multinacional do setor financeiro.
+Estamos convencidos de que o caminho para crescer de forma rentável, recorrente e sustentável é prestar serviços com excelência para aumentar o nível de satisfação e obter mais clientes. Nossa atuação está pautada em uma relação próxima e duradoura com clientes, fornecedores e acionistas. Com isso, nosso propósito é contribuir para que pessoas e negócios prosperem.
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Serviços financeirosTecnologia da informação e serviços
+Temos sede por transformar nosso conhecimento técnico-científico em respostas para problemas complexos do mundo da engenharia e software.
+
+Precisamos de pessoas ágeis, éticas,
+
+comprometidas com a entrega e que estejam em constante
+
+busca por aprendizado e novos desafios. Queremos
+
+essas pessoas para compor o nosso time e, juntos, tornarmos a Radix uma empresa Top of Mind no que diz respeito à inovação e soluções
+
+tecnológicas pelos diversos setores da indústria.
+
+Estamos expandindo e tornando a nossa
+
+presença cada vez mais poderosa! Que tal fazer parte disso?
+
+Conhecimentos Técnicos
+
+
+
+
+
+
+
+Como Cientistas de Dados Senior, você será responsável por:
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+Estamos à procura de uma pessoa apaixonada pela cultura Data Driven, que irá transformar dados em informação, informação em insights e insights em decisões estratégicas de negócio. Colaboração e proatividade são elementos-chave para tornar-se integrante da equipe de Analytics da Vindi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Bancos
+A Keyrus é uma Consultoria, criadora de valor na era de Dados e Digital!
+ Com operação em 18 países, 4 continentes, 600 colaboradores no Brasil e 100 na Colômbia, pretende aumentar essa atuação em mil até o final do ano.
+Nossa missão: "Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade".
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Sólida experiência em estatística descritiva, com capacidade de exploração de dados utilizando Python e base Hive,
+Contratação por tempo indeterminado,
+Atuação remota durante a pandemia (após este período, possibilidade de alocação em Alphaville).
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Prazer, somos a Suzano!
+
+Aqui a gente acredita que inovação e sustentabilidade caminham juntas. Dessa união, nasce uma atitude plena de significado: a inovabilidade. Pautados por ela, pensamos fora da caixa e enxergamos longe para lidar com os desafios do século 21. Nós plantamos e cultivamos árvores para transformar essa matéria-prima renovável em Bioprodutos para o dia a dia de mais de 2 bilhões de pessoas. Cultivamos a vida na folha do caderno que alfabetiza as crianças, na fralda que protege os bebês, no copo de café que não prejudica o meio ambiente, em papéis absorventes e na comodidade do uso de uma embalagem sustentável.
+
+
+
+Iguais e diferentes. Singulares e plurais. Acreditamos que a diversidade nos fortalece, por isso, não fazemos distinção para candidatos com deficiência, gênero, orientação sexual, raça/etnia, idade, origem, constituição familiar e estética. Aqui você pode descobrir novos desafios, novos horizontes, novos objetivos e até mais sobre você mesmo.
+
+
+
+
+
+O profissional se juntará à nova área do Centro Digital da Suzano, criada para desenvolver soluções inovadoras de forma ágil com a missão de transformação do negócio em todos os níveis: florestal, industrial, supply-chain, comercial e funções de suporte.
+
+
+
+Aqui na Suzano, o Cientista de Dados irá realizar aplicações de técnicas avançadas de Analytics (incluindo, mas não só, Machine Learning e Otimização) além de ajudar no desenvolvimento de algoritmos e códigos voltados para aplicações de negócio. Nosso objetivo é aplicar os conceitos da ciência de dados para desenvolver, em conjunto com os times operacionais, soluções tecnológicas em projetos de grande valor para a Suzano. Além disso, o Cientista de Dados irá propor e desenvolver soluções para problemas reais de negócios, tendo interface com as mais diversas áreas da empresa para entender e ajudar a resolver suas maiores dores.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+PesquisaAnalistaTecnologia da informação
+Setores
+Recrutamento e seleçãoRecursos humanosServiços financeiros
+Job Description
+
+Como parte do nosso time de Digital em São Paulo você irá atuar em um dos nossos grandes clientes do setor de telecomunicações.
+
+Main responsibilities
+
+
+
+
+
+
+
+
+
+
+: Ciência da Computação; Engenharia da Computação, Sistemas da Informação ou áreas correlatas
+
+Inglês Avançado
+
+Additional information
+
+
+
+
+
+Local de Trabalho: Brooklin / ZS
+
+Consultoria de Gestão e projetos na área de tecnologia
+
+Somos uma consultoria empresarial francesa, fundada em 2000. Nossa missão consiste em guiar empresas em seus projetos de e ajudá-las a modelar o futuro. Globalmente são mais de 1000 talentos apoiando grandes corporações.
+
+A Beijaflore Brasil atua no país com escritórios em São Paulo e Rio de Janeiro, desenvolvendo projetos em todo território nacional. Oferecemos quatro linhas de serviço com ofertas complementares em consultoria de negócios e tecnologia:
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+Você é um cientista de dados e tem experiência prática na aplicação de Machine Learning?
+
+Então chegou a sua hora!
+Estamos buscando alguém que possa projetar soluções para gestão de crédito através do desenvolvimento modelos estatísticos avançados.
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Estratégia/Planejamento
+Setores
+Bancos
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+O hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+ContabilidadeServiços financeiros
+Hoje 7 bilhões de pessoas dividem o planeta. Em 2050, haverá mais 2 bilhões. Assegurar que haverá alimento e infraestrutura suficientes para suprir essa crescente demanda é o nosso objetivo na John Deere. E é por isso que estamos investindo em pessoas e tecnologia como nunca antes em nossa história de mais de 175 anos. Isso não é apenas o maior desafio que o mundo já enfrentou. É uma oportunidade para construir um mundo melhor. AGORA MESMO.
+
+Local Principal: Brasil (BR) - São Paulo (BR-SP) - Indaiatuba
+Função: Data Science & Analytics
+
+
+
+
+
+Como um(a) Cientista de Dados - CRM Analytics para o Banco John Deere, você será responsável por desenvolver, entregar e validar modelos de análise preditiva para aumentar e acelerar os recursos de Ciência e Análise de Dados em toda a América Latina. Usará a ciência e análise de dados para entender melhor os padrões, identificar oportunidades, desenvolver modelos preditivos relacionados as estratégias de marketing e vendas para a gestão do ciclo de vida do cliente, bem como trabalhar com pesquisa e inovação no intuito de posicionar o CRM como um instrumento de inteligência analítica na América Latina. Trabalhará diretamente com o time de Customer & Channel Analytics, localizado em Johnston-Iowa, visando executar e fornecer a análise e os conhecimentos necessários para suportar a transformação digital da John Deere Financial. Faça parte de uma equipe apaixonada por fazer a diferença aplicando técnicas de ciência e análise de dados para resolver problemas e impulsionar ações. Além disso, você será responsável por:
+
+
+
+
+Estamos em busca de um(a) profissional com foco em resultado, bom relacionamento interpessoal, tomada de decisão, visão estratégica e capacidade de inovação. Além disso, também buscamos as seguintes qualificações:
+
+
+
+
+
+
+Candidatos estrangeiros com interesse em participar deste processo seletivo deverão dispor dos documentos de trabalho exigidos pelo país de origem da vaga.
+
+Respeitamos a diversidade e valorizamos um ambiente cada vez mais inclusivo. Assim, pessoas com deficiência, reabilitadas, de distintas gerações, gêneros, religiões, raças, etnias, orientação sexual e todas as diversidades são muito bem vindas ao nosso time.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+MaquinárioEngenharia mecânica ou industrialRecrutamento e seleção
+Descrição Da Vaga
+
+Estamos procurando um cientista de dados que seja apaixonado pelo desenvolvimento de tecnologias da próxima geração que terão um profundo impacto na medicina e no sistema de saúde como um todo.
+
+
+
+Dentro do time de na IQVIA você terá acesso a petabytes de dados, hardware de última geração, como clusters e GPUs e oportunidade de aprender com especialistas do mundo todo as melhores práticas em ciência de dados.
+
+
+
+
+
+
+Making a positive impact on human health takes insight, curiosity, and intellectual courage. It takes brave minds, pushing the boundaries to transform healthcare. Regardless of your role, you will have the opportunity to play an important part in helping our clients drive healthcare forward and ultimately improve outcomes for patients.
+
+Forge a career with greater purpose, make an impact, and never stop learning.
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Indústria farmacêutica
+Se você é uma pessoa apaixonada por dados e tem facilidade para gerar insights analíticos, essa vaga é para você! ❤️
+
+Criamos produtos para que o dinheiro não limite a sua vida.
+
+Para isso, buscamos por pessoas e , que encontrem novas e para os nossos desafios, e nos ajudem a criar a melhor experiência para os nossos clientes.
+
+Alíás, desafios aqui é o que não falta! Somos experts em transformar ideias em experiências marcantes. Atendemos as dores de nossos clientes, parceiros e colaboradores, sempre buscando gerar valor para o negócio e a construção da nossa marca.
+
+Somos , a área responsável pelos , nos canais e na da Guide.
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Bancos de investimento
+A C&A é muito eu
+
+E trabalha para você ser muito você em todos os momentos, começando pela sua carreira
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Roupas e moda
+Buscamos um(a) Especialista de dados, para trabalhar em nossa área de Marketing.
+
+O que você vai fazer?
+- Construir e manter uma base de dados limpa, com relevância;
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+MarketingVendas
+Setores
+Indústria automotiva
+Job Description
+
+Oportunidade para atuar em uma equipe de Inovação e Tecnologia do Hospital que é centro de referência internacional em saúde e que utiliza tecnologias de última geração.
+
+Main responsibilities
+
+
+
+
+
+
+
+
+
+
+
+Conheça mais sobre NÓS
+
+Fundada em 2007, a Inovation IT possuí 12 (Doze) anos de presença no mercado, atuando no segmento de tecnologia, destacando-se na prestação de serviços de Hunting / Recrutamento Especializado em TI.
+
+Site: http://www.inovation.com.br/
+
+Telefone: +55 (11) 3280-5645
+
+Setor: Tecnologia da informação e serviços
+
+Tamanho da empresa: 51-200 funcionários
+
+Tipo: Empresa privada
+
+Fundada em: 2007
+
+Conheça Mais Sobre Nós
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+REQUISITOS:
+ Graduação completa em: Ciência da Computação, Estatística, Ciências Atuariais, Engenharia ou áreas afins;
+Desejável pós graduação em áreas afins;
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Saúde, bem-estar e educação física
+Empresa Contratante
+
+Empresa Contratante: Fundep – Fundação de Desenvolvimento e Pesquisa
+Ramo da Atividade: gestão de projetos de ensino, pesquisa e extensão
+
+A Fundep é uma instituição que realiza a gestão de projetos de ensino, pesquisa e extensão da Universidade Federal de Minas Gerais e de outras instituições e centros de inovação. Sua experiência permite que o pesquisador, o professor e cientista foquem nas suas atribuições, enquanto a Fundação realiza ações administrativas e financeiras inerentes aos projetos, como compras, importações, contratação de pessoal, contabilidade e prestação de contas.
+
+Dados da Vaga
+
+
+Projeto 19577 – FINEP/IEAPM/LABMMAR
+
+Requisitos/Perfil Desejado
+
+
+Atribuições e Responsabilidades
+
+
+Observação
+
+
+
+Candidatura/Envio de Currículos
+
+Envio de currículos até dia 17 de Agosto de 2017
+
+
+
+Divulgação
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Ensino superiorPesquisaBiotecnologia
+Enviar mensagem direta ao anunciante da vaga na TIVIT
+Michaelle Cristelo
+Senior Human Resources Analyst at TIVIT
+Realizar análise em grandes quantidades de dados não estruturados e estruturados com a finalidade de extrair insights e construir modelos de Machine Learning e estatísticas para gerar valor para a TIVIT e seus clientes. 
+ O que esperamos de você: 
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Desde 1945 a Porto Seguro atua no mercado de Seguros, mas seu portfólio de produtos vai muito além de seguros de automóvel e inclui previdência, consórcio, monitoramento, investimento, cartão de crédito e muito mais! Buscamos profissionais que gostem de desafios, que queiram aprender e contribuir na análise e proposta de soluções, planejamento e condução de temas, projetos de desenvolvimento e sustentação, melhoria contínua, ampla visão e interação com o Negócio.
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Estratégia/PlanejamentoNegócios em geralCiências
+Setores
+Seguros
+Sobre a empresa
+
+Cortex é a plataforma líder de Growth Intelligence do Brasil. Growth intelligence é o uso de ciência de dados e Big Data em informações do mercado e da sua empresa para alavancar resultados de marketing e vendas.
+
+Mais do que isso, esse é o nosso propósito.
+
+É o que nos inspira: turbinar o crescimento dos nossos clientes por meio de inteligência de dados.
+
+Nossos clientes são grandes marcas com enorme potencial: Unilever, Fiat Chrysler (FCA), L’Oreal, Roche, Visa, Claro, entre outros.
+
+Somos inquietos, apaixonados por tecnologia, ousados, amigos sinceros e não gostamos de politicagem. Trabalhamos duro, mas nos divertimos muito enquanto isso. A empresa está crescendo rápido, mais de 50% por ano.
+
+Somos a empresa mais bem capitalizada na área de big data no Brasil, sendo investida pelos maiores e mais respeitados fundos de venture capital internacionais com atuação no país.
+
+Precisamos de um profissional que nos ajude a evoluir as atuais soluções e modelos de assim como a construção de uma nova proposta de .
+
+A equipe de Ciência de Dados trabalha nas etapas de idealização, desenvolvimento de modelos e código, implantação e monitoramento de nossos softwares. Isso implica estar em contato com as áreas de Produto, Comercial, Professional Services, Engenharia e Customer Success.
+
+O profissional irá ajudar na dos códigos. Também estará a cargo do colaborador hoje presentes na AWS.
+
+Nota: Não é necessário atender a todos os requisitos descritos. Temos diversas frentes e cada uma requer um conjunto de habilidades bem específicas. Caso se enquadre em alguma delas, sinta-se à vontade para aplicar.
+
+
+
+O time de Dados faz parte da área de Engenharia da Cortex, que conta ainda com o time de (responsável pela plataforma de Data Analytics que permite a manipulação, transformação, análise, visualização e compartilhamento de dados) e o time de (responsável pela operação, monitoramento, controle e segurança dos ambientes de produção na Cloud). Em momento de plena expansão e crescimento, o time de Engenharia tem .
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+
+
+REQUISITOS E QUALIFICAÇÕES
+
+
+
+
+
+
+
+INFORMAÇÕES ADICIONAIS
+
+
+
+
+
+VEM FAZER PARTE DO TIME! #BECORTEX 🚀
+
+Aqui na Cortex você pode se manifestar e ser quem você é em um ambiente descontraído e acolhedor!
+
+Somos um time de pessoas altamente motivadas e focadas em proporcionar as melhores oportunidades aos nossos clientes. Trabalhamos duro, mas nos divertimos muito enquanto isso. Buscamos pessoas que, assim como nós, acreditam que o mundo evolui rápido e que inovar sempre é possível.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+A TI do Carrefour está com quase 50 posições em aberto!
+
+Buscamos profissionais que queiram inovar e estruturar nosso Varejo.
+
+Se você é Dev (Front ou Backend, Android ou IOS), QA, SM, Engenheiro ou Cientista de Dados mas principalmente criativo, motivado e que gosta de trabalhar em equipe, venha se juntar ao nosso time.
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Varejo
+Publicado há 19 dias
+Ser protagonista na mudança cultural da área de Supply Chain para um cultura mais Analítica (Data-driven);
+
+Automatização de vários processos da área de Supply Chain desde as rotinas mais simples às mais complexas;
+Condução de projetos que envolvam ciência de dados que visam resolver problemas do negócio;
+Condução de projetos que envolvam engenharia de dados que visam resolver problemas do negócio.
+Automatização de relatórios e processos;
+Engenharia de dados;
+Estudos estatísticos.
+
+Cientista de Dados
+Temporário
+Informática/T.I.
+Horário à confirmar.
+1
+Restaurante na empresa
+Ônibus fretado
+
+Requisitos
+
+
+
+Graduação - Estatística - Concluído - Desejável
+Graduação - Tecnologia da Informação - Concluído - Desejável
+Mestrado - Matemática - Concluído - Desejável
+
+
+
+
+
+Curso superior cursando ou completo em Ciência da Computação, Estatística ou Engenharia
+Conhecimento em Matemática e Estatística
+Conhecimento intermediário ou avançado em SQL, Python e programação R
+Diferencial possuir conhecimento em Power BI e SAP
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+RestaurantesRecrutamento e seleçãoRecursos humanos
+Atuar com manipulação de dados e criação de modelos estatísticos em grandes conjuntos de dados.Desenvolver, aplicar e treinar algoritimos de IA/MLIdentificar e promover melhorias nas ferramentas e processos relacionados à ciência de dados.Realizar entregas e demandas solicitadas dentro dos prazos estipulados.
+Formação superior completa em engenharia, estatística, ciência da computação ou áreas afins;Especialização ou mestrado em Ciência de dados;Conhecimento em métodos algorítimos de IA e Machine Learning;Conhecimentos avançados em programação, preferencialmente Python;Conhecimentos avançados em ferramentas estatísticas, em especial SAS e R;Conhecimentos avançados em SQL para exploração, tratamento e preparação de dados.
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+Área e especialização profissional: Informática, TI, Telecomunicações - Processamento de Dados
+Nível hierárquico: Especialista
+Local de trabalho: São Paulo, SP
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidade
+Descrição da Diretoria de Analytics
+A Diretoria de Analytics da ClearSale assume uma posição fundamental e estratégica dentro da empresa, sendo a principal responsável pela construção e gestão das soluções antifraudes de nossos clientes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local: Barra Funda - SP (Próximo ao metrô).
+
+Horário de Trabalho: 9h-18h | Horário Flexível
+
+Salário: A combinar
+
+
+
+
+
+
+
+Todas as nossas posições também são destinadas a pessoas com deficiência.
+
+Na ClearSale respeitamos a diversidade, temos uma cultura totalmente inclusiva que busca a equidade e valoriza as diferenças :)
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Segurança de redes e computadores
+Criar. Transformar. Aqui você tem a oportunidade de construir e deixar seu legado. Está preparado(a) para transformar o seu futuro?
+
+CIENTISTA DE DADOS
+
+Buscamos um Cientista de Dados disposto (a) a impulsionar a TIVIT em seus desafios de transformação.
+
+
+
+
+#VemTransformar!
+
+São Paulo
+
+
+
+Vale Transporte;
+
+Vale Refeição ou Alimentação;
+
+Plano de Saúde e Odontológico;
+
+Convênio Farmácia;
+
+Auxílio Creche;
+
+Seguro de Vida;
+
+Gympass;
+
+PAC - Programa de aceleração de carreira;
+
+Reembolso para cursos e certificações;
+
+TecnoTIVIT & TIVITAcademy - Educação Corporativa com cursos EAD e presencial;
+
+PLR, mediante política interna.
+
+CLT
+
+
+
+Nós somos uma multinacional brasileira de soluções digitais com operações em dez países da América Latina. Apoiamos a evolução dos negócios de nossos clientes a partir das nossas quatro linhas de negócios: Digital Business, Cloud Solutions, Digital Payments e Technology Platforms.
+
+
+
+
+
+
+O time de Digital Business é responsável por entender os desafios de negócio dos nossos clientes e desenvolver, por meio de metodologias ágeis e com tecnologias emergentes, como Big Data, IoT, Analytics e Blockchain, soluções personalizadas e que trazem mais eficiência e produtividade às operações.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+descrição
+
+Conhecimento Nas Áreas e Softwares Conforme Descrito
+
+SAP ERP - módulo PM (Planejamento da manutenção) e MM (Gestão de Materiais)
+Conhecimento de funcionamento, principais transações e conceitos.
+Experiência no uso de SAP para gestão de manutenção e materiais e nos fluxos do sistema.
+Software de BI ( Business Intelligence ) - Microsoft Power BI , TIBCO Spotfire
+Experiência em desenvolvimento soluções de apoio em gestão.
+
+Banco de dados ? Microsoft Access
+Conhecimento de arquitetura de banco de dados, consultas e documentação.
+Linguagem de programação ? VBA , scripts em geral
+Participação em projetos de desenvolvimento de programação. Incluindo testes de caso e apoio a elaboração de documentação.
+
+Desenvolvimento Web - HTML, Javascript, CSS.
+Participação em desenvolvimento WEB.
+
+Pacote Microsoft Office
+Conhecimento geral das ferramentas. Programação de macros em VBA para Excel e tabelas dinâmicas.
+
+SALÁRIO: A COMBINAR
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+Nós Já Vamos Conversar Sobre Os Desafios Da Área Mas, Antes Disso, Queremos Te Contar Um Pouquinho Mais Sobre Nossa Obra De Arte
+
+A Leads2b, além de ser o nome da empresa, é um sistema de sales growth machine completamente pioneiro em seu segmento, por ser uma solução integrada que conecta todas as pontas da área comercial. Temos levado metodologias modernas de vendas para mais de 1.000 pequenos e médios negócios do Brasil inteirinho. E vamos continuar expandindo, até que a gente realize sonhos e leve tecnologia para todos os segmentos!
+
+E, se o que estamos criando não é nada comum, seguimos a mesma lógica na construção do nosso time de . Buscando profissionais que se alimentam de Produtos e Negócios apaixonantes (pois é isso que irão encontrar aqui), que saiam diariamente de suas caixinhas e que não tenham dificuldade em navegar entre criação e execução.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Todo o time da Leads2b está trabalhando de casa, por isso, pode ficar tranquila(o) que as etapas serão todas feitas online]
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Elaborar estratégias e propor ferramentas/soluções para minerarmos os dados gerados por nossa tecnologia, buscando otimizar o resultado dos sistemas ou mapas em operação
+Realizar atividades de análise de dados, seja para identificação de padrões, predição de ocorrências operacionais ou auxílio a criação e manutenção de sistemas
+
+
+Trimble Inc. is proud to be an Equal Opportunity and Affirmative Action Employer and considers qualified applicants for employment without regard to race, gender, age, color, religion, national origin, marital status, disability, sexual orientation, status as a covered veteran in accordance with applicable federal, state and local laws, or any other protected factor. EOE/M/F/V/D
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Engenharia
+Setores
+Manufatura de eletroeletrônicos
+Job Description
+
+Buscamos profissional para atuar na captura e exploração de dados diversos, visando transmitir resultados que agreguem valor à resolução de problemas complexos e à tomada de decisão gerencial.
+
+Main responsibilities
+
+
+
+
+
+Está nascendo uma Nova BR
+
+Estamos em todo o país fazendo diferença no seu dia a dia. Escrevemos agora um novo capítulo nessa história, com muitas oportunidades e novos caminhos para levar pessoas e negócios a realizarem todo o seu potencial. Buscamos mais talentos que queiram fazer parte dessa transformação.
+
+Vem com a gente!!!
+
+
+
+Nossa empresa leva distribuição e conveniência a todos os cantos desse país continental. Somos a maior rede de postos do Brasil e estamos presentes onde for necessário. Não à toa, somos a rede preferida dos brasileiros. Você nos encontra em mais de 7.000 postos, distribuídos por todos os estados. Em nossos postos oferecemos produtos e serviços consagrados, como o lubrificante Lubrax, as gasolinas Petrobras Podium e Petrobras Grid, as lojas de conveniência BR Mania, o Cartão Petrobras, o centro de lubrificação Lubrax+ e o programa de fidelidade Petrobras Premmia.
+
+Também atuamos no segmento B2B, nas áreas de mineração, indústrias, transporte, agricultura, geração de energia, aviação e químicos, levando combustíveis, energia e conveniência aos nossos clientes.
+
+A BR tem essa energia toda porque tem a cara do Brasil! É movida por gente de todos os cantos e gostos, de diversas idades, etnias, gêneros, regiões e religiões, com o propósito de oferecer a distribuição e a conveniência necessárias para que pessoas e negócios realizem todo o seu potencial. E tudo isso com respeito ao meio ambiente, compromisso com a vida e inovação.
+
+Contatos
+
+Open for applications until: 16/07/2020
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+
+Se você curte atuar em projetos desafiadores onde a sua capacidade técnica e a sua contribuição são essenciais para o andamento do trabalho, gosta de trabalhar com equipes multidisciplinares e é apaixonado(a) por dados e inovação, a oportunidade de na Marisol é a sua cara.
+
+Como Cientista de dados na Marisol você estará atuando com pesquisas e estudos de dados com o principal objetivo de transformar e evoluir ainda mais nossos negócios.
+
+Criar um Futuro Melhor é o nosso Propósito!
+
+
+
+Capturar, tratar e analisar dados para evolução de negócios;
+
+Criar rotinas para automatizar a extração e processamento de dados;
+
+Realizar análises em bancos de dados e nas ferramentas de BI da empresa;
+
+Realizar estudos com as diferentes bases de dados da empresa e bancos de dados externos;
+
+Auxiliar, a partir de dados na compreensão do comportamento do consumidor;
+
+
+
+Formação superior em Ciência da Computação, Engenharia de Software, Sistemas de Informação, Estatística, Matemática e áreas afins;
+
+Conhecimento técnico de infraestruturas de dados e estatística;
+
+Ter capacidade de traduzir a linguagem de um cientista de dados para os demais envolvidos no negócio;
+
+Inglês fluente.
+
+
+Somos uma marca brasileira em constante evolução.
+
+E o nosso propósito é Criar um Futuro Melhor. Isso é o que nos guia na busca de negócios e conexões que apoiem a evolução da sociedade por meio das crianças.
+
+Somos uma empresa com espírito inovador. Estamos há 55 anos no mercado buscando evoluir constantemente nossas práticas e modelos de negócios. Nascemos indústria, evoluímos para o varejo, fomos pioneiros nos movimentos de franquias no Brasil, operamos com licenciamento e a nossa ultima e mais recente inovação tem sido no universo de conteúdos.
+
+Atualmente, produzimos cerca de 15 milhões de peças de roupas e mais de 500 mil pares de calçados por ano, valorizando cada momento da infância com estilo e conforto em todas as ocasiões do ano.
+
+Nossas marcas – Lilica Ripilica, Tigor T. Tigre e Marisol, podem ser encontradas em nossas 400 lojas em rede e mais de 4.500 pontos de venda multimarca em todo o país, encantando e participando dos momentos mais felizes da vida.
+
+E a Lilica Ripilica, nossa charmosa Coala, já está nas TVs e dispositivos mobiles. O Mundo Ripilica, as aventuras de Lilica, a Coala é uma série animada que estreou em 2016 na Discovery Kids e hoje pode ser assistida em diversas plataformas e multicanais no mundo.
+
+Viu só!? São tantas novidades e caminhos a percorrer, além de todas as ambições que ainda temos por aqui para evolução do nosso mundo, do seu mundo e da sociedade.
+
+Você quer construir essa jornada conosco. Vamos juntos?
+
+#Vem ser Marisol!
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Recrutamento e seleçãoRecursos humanosVarejo
+Atuamos com projetos desafiadores e interessantes para sua carreira.
+
+Nossa missão é conceber, desenvolver e implementar processos de negócios e soluções de TI que superem as expectativas de nossos clientes.
+
+Os nossos valores são: comprometimento, respeito, atendimento, valorização, aprendizado e maturidade.
+
+
+
+
+
+Estamos montando uma equipe de alta performance e qualidade para aplicabilidade em tecnologias de ponta para atuar em um projeto para área de, que visa dar suporte, sustentar, desenhar e propor melhorias nas soluções de negócio.
+
+Esse projeto será executado em modelo Agile e o desenvolvimento será em Micro Serviços, fazendo uso de Big Data/ Cloud, entre outras tecnologias.
+
+
+
+Trazer insights decisivos, fazendo o tratamento dos dados históricos que apoiarão decisões futuras, informações valiosas, que podem elevar a performance da empresa, dando foco correto de estratégia e direcionamento;
+
+Ter conhecimentos para aplicações machine learning, análise preditiva de dados para extrair insights e auxiliar nas tomadas de decisões;
+
+Profissionais analíticos, com pensamento lógico, habilidade com números, conhecimento em programação, com formação em Computação, Estatística, Matemática, ou similares;
+
+Conhecimento em ferramentas de BI/ Analytcs, ETL/ Powercenter, Hadoop, Teradata, QLikSense/ QlikView e tableau.
+
+
+
+Empresa idônea;
+
+Equipes colaborativas;
+
+Clima encantador;
+
+Projetos desafiadores;
+
+Horário flexível.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Enviar mensagem direta ao anunciante da vaga na SKY Brasil
+Guilherme Rosa
+Psicologia | Talent Attraction | D&I
+VP: Marketing
+Área: DBM 
+Local: Vila Cordeiro - São Paulo
+ Resumo 📃
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+MarketingTecnologia da informação
+Setores
+Mídia de difusão
+Enviar mensagem direta ao anunciante da vaga na CI&T
+Fabíola Martins
+Talent Acquisition na CI&T | Tech Recruiter | Psicóloga
+Buscamos um Cientista de Dados, que tenha formação quantitativa em áreas como Matemática Aplicada, Estatística, Física, Computação, Engenharia ou Economia, para resolver grandes desafios usando modelos estatísticos, machine learning e solucionar problemas de nossos clientes, aplicando o método científico para testar e validar hipóteses de negócio. Essa pessoa atuará utilizando dados estruturados e não-estruturados (documentos, imagens, vídeos) e empregará técnicas multivariadas, modelos preditivos e análises exploratórias.
+
+
+
+
+
+
+
+Buscamos pessoas que são conectadas com a transformação digital, que gostam de compartilhar e aprender novas tecnologias contribuindo com as comunidades e com a CI&T. Além disso que tenham match cultural conosco, respeitando as diferenças, trabalhando com colaboração e teamwork.
+
+Eai? Se animou?!
+
+Então conclua a sua inscrição e boa sorte =D
+
+#MidSenior
+
+
+
+
+
+
+Todas as nossas vagas se destinam também para pessoas com deficiência.
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+
+Vaga para Cientista de Dados em projeto de melhoria de analisadores virtuais com refinamento de algoritmos de Machine Learning.
+
+Main responsibilities
+
+
+
+
+
+
+
+
+
+
+bibliotecas de machine learning. Se Python: pandas, scikitlearn, numpy, Matplotlib.
+
+
+
+e não-supervisionados (clsuterização e agrupamentos) para problemas reais.
+
+
+
+
+
+
+
+Additional information
+
+
+
+
+
+Seja bem-vindo à Radix
+
+Ser radixiano é fazer acontecer! Se você é e gosta de superar desafios de maneira colaborativa, tem um lugar no nosso time te esperando. Aqui, a gente investe em , e para transformar conhecimento técnico-científico em resultados.
+
+
+
+Oferecemos serviços e soluções altamente qualificados e com independência tecnológica para atender as principais indústrias de processo do Brasil e do mundo. Estamos presentes nos mercados de Óleo & Gás, Petroquímico, Químico, Metais e Mineração, Papel e Celulose, Alimentos e Bebidas, Geração de Energia e Mídia e Entretenimento.
+
+Acompanhe nossas redes!
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+Enviar mensagem direta ao anunciante da vaga na Fundação CERTI
+Jessica Freitag de Mello
+Talent Acquisition | Tech Recruiter | HR Specialist at Fundação CERTI
+Ajudamos empresas (nacionais e internacionais) a inovar em seus negócios através de posicionamento, Desenvolvimento, formatação e pilotos de novos produtos ou serviços.
+Na equipe do Centro de Convergência Digital e Mecatrônica, você irá conviver num ambiente tecnológico voltado ao desenvolvimento de soluções inovadoras, de forma multidisciplinar, agregando esforços a equipe.
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaPesquisaGestão de projetos
+Setores
+SoftwarePesquisaGestão de organização sem fins lucrativos
+Somos um time com o propósito de empoderar o comércio. Somos colaborativos, curiosos, enfrentamos desafios diariamente e valorizamos a liberdade, autonomia e responsabilidade. Se você se identifica com esses valores e gosta de criar soluções com impacto positivo na vida das pessoas, queremos te conhecer!
+
+Como dentro do , você fará parte da equipe de marketing colaborando com a tomada de decisão estratégica e direcionamento de planos táticos eficientes por meio de gestão de dados, data mining, modelagem estatística e visualização. Garantirá a integridade dos dados de ponta a ponta, realizará scripts para automatização de processos de forma escalável e disponibilizará dados confiáveis em dashboards para consulta dos stakeholders. Você fará interface com equipes de desenvolvimento para definir a maneira como os dados serão persistidos nas bases.
+
+Esta vaga é para trabalho presencial em Curitiba ou São Paulo. Durante a quarentena, o processo seletivo é 100% online e nosso time está trabalhando de casa. Vamos seguir assim até que seja seguro retornar às atividades presenciais.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Já imaginou decidir o quanto você vai receber no seu vale-alimentação. No isso é totalmente possível. Isso acontece porque disponibilizamos um pacote de benefícios flexíveis baseado em um sistema de pontuação. Com ele, você decide onde colocar seus pontos e monta a sua própria combinação de benefícios.
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Por que você deve fazer parte do super-time Vojo/Mind Lab?
+
+Nós da Mind Lab, acreditamos que um futuro melhor é construído por pessoas mais preparadas socioemocionalmente para lidar e se adaptar aos desafios, problemas e dificuldades da vida adulta e da era pós-moderna. Com base em uma metodologia consolidada mundialmente, criamos produtos e ferramentas que geram impactos socialmente positivos e ajudam crianças, jovens e adultos a desenvolverem seu potencial máximo e a serem agentes transformadores do futuro.
+
+
+
+Você fará parte de um novo e jovem time ágil que tem o desafio de mudar a maneira como as pessoas se preparam e acessam uma vaga, transformando o mercado de trabalho brasileiro e fazendo, do Vojo, o principal agente de mudança socieconômica do país. Nosso objetivo? Conectar milhões de brasileiros à uma oportunidade de trabalho.
+
+
+
+
+
+
+
+
+
+evolução diária, ambiente horizontal, aberto e dinâmicoalto impacto social e muito, mas muito aprendizado para a vida!!!
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Gestão educacional
+Somos do Santander, um time focado em identificar as melhores alternativas para fazer algo diferente para o cliente. Bora fazer parte desse time hoje?
+O cientista de dados que atua em riscos tem como objetivo modelar grandes volumes de informações, transformando-as em inteligência e trazendo novas soluções para nossos Clientes e nossos Negócios.
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informaçãoEstratégia/PlanejamentoAnalista
+Setores
+BancosServiços financeirosTecnologia da informação e serviços
+É apaixonado por Machine Learning? Gostaria de trabalhar com o objetivo de tornar a internet um ambiente mais seguro? Buscamos um(a) engenheiro de dados para trabalhar no nosso time de Machine Learning no escritório de Porto Alegre ou remotamente, atuando na na criação e desenvolvimento na infraestrutura dedicada às atividades de Machine Learning.
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informaçãoEngenharia
+Setores
+Tecnologia da informação e serviços
+lang: pt_BR
+
+Job Description
+
+Esta é uma vaga para nosso Talent Pool. Isso significa que após sua aplicação, você avançará em etapas para conhecer mais sobre a Gupy e poderá ser selecionadx para executar nossas etapas normais de nosso processo seletivo e poderá ser pré-aprovadx. Assim, quando uma posição for aberta em nosso time, entraremos em contato com as pessoas pré-aprovadas para dar continuidade no processo de se tornar um/uma gupier!
+
+A Gupy é uma empresa de tecnologia que une um grupo de pessoas desenvolvedoras, engenheiras e cientistas apaixonados em gerar inovação. Somos movidos por grandes desafios e precisamos de pessoas que amem tecnologia, aprendizado constante, e que tenham muita gana para nos ajudarem a transformar a Gupy na melhor e maior empresa de Recrutamento Tech do Brasil.
+
+Atualmente temos um índice de desemprego muito alto no Brasil e uma guerra por talentos a todo vapor. Por isso, nosso propósito é oferecer contratações mais ágeis, justas e encantadoras para os nossos clientes e candidatos.
+
+Estamos crescendo muito rápido e criando a cada dia um produto ainda mais poderoso. O segredo disso? As pessoas incríveis que fazem parte conosco dessa construção contínua.
+
+Então, quer saber um pouco mais sobre nossos valores, rituais do dia a dia, modelo de trabalho de nossos gupiers, desafios e ainda ter a oportunidade de fazer parte dessa história?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Empresa Contratante
+
+Empresa Contratante: Fundação Arthur Bernardes – FUNARBE
+Ramo da Atividade: Fundação sem fins lucrativos
+
+A missão da Fundação Arthur Bernardes (Funarbe) é possibilitar que nossos clientes e parceiros possam se dedicar ao desenvolvimento de projetos que contribuam para o avanço da ciência, tecnologia e inovação do nosso país. E fazemos isso há 38 anos.
+
+Para tanto, oferecemos soluções em gestão de projetos, viabilizando contratações, compras, importações, pagamentos, prestações de contas e todas as demandas administrativas e financeiras dos projetos para que o pesquisador, o professor e cientista foquem em suas atribuições.
+
+Instituída em 1979, somos uma entidade de direito privado, sem fins lucrativos e com personalidade jurídica própria, que realiza a gestão administrativa-financeira de projetos de ensino, pesquisa e extensão da Universidade Federal de Viçosa (UFV) e de outras instituições e centros de pesquisa.
+
+A competência adquirida na prestação de serviços à UFV permitiu a expansão de nosso relacionamento com outras instituições. Atualmente, somos autorizada a também exercer o papel de fundação de apoio de outras renomadas instituições de nosso país: Embrapa, Epamig, Instituto Federal do Norte de Minas Gerais, Instituto Federal de São Paulo, Instituto Federal de Minas Gerais e Instituto Federal Sudeste de Minas Gerais.
+
+Como fundação de apoio, somos credenciada pelo Ministério da Educação (MEC) e Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC), conforme Portaria Conjunta 84 de 22 de novembro de 2016.
+
+Dados da Vaga de Emprego
+
+
+Requisitos/Perfil Desejado
+
+
+Atribuições e Responsabilidades
+
+
+
+Profissional – Emprego
+Zootecnia, Afins.
+
+Candidatura/Envio de Currículos
+
+Envio de currículos até dia 12 de Fevereiro de 2018
+
+Por gentileza, somente enviar currículo profissionais que se encaixem no perfil,
+de forma a economizar seu tempo e do recrutador.
+
+O processo de seleção será regido segundo as diretrizes dispostas na cartilha do candidato disponível em nosso site.
+Informações referentes ao processo seletivo serão encaminhadas por e-mail aos candidatos.
+
+
+
+Cadastrado na Rede Agrobase em 25 de Janeiro de 2018.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços Ensino superiorRecursos humanos
+Job Description
+
+Segmento de Atuação : Concessões/Adm - Rodovias
+
+Período : Indeterminado
+
+Horário de Trabalho: Comercial
+
+Tipo de Contratação : CLT
+
+Local : Jundiai
+
+Inicio : Imediato
+
+Benefícios : VA ou VR , VT , Vida , Odonto, Previdencia Conjunta , Gynmpass, + PLR
+
+Main responsibilities
+
+ÁREA / SETOR: Desenvolvimento de Produtos e Serviços de TI
+
+Formação Acadêmica : Matemática, Estatística, Ciência da Computação, Análise de Sistemas ou qualquer Engenharia da área de exatas.
+
+Cursos / Certificações / Conhecimentos: Amplo conhecimento em ferramentas de extração e análise de dados, bancos de dados e estruturas de armazenamento de dados, conhecimentos sólidos em métodos e ferramentas em análises estatísticas, conhecimento e conceitos de análise preditiva e AI (Artificial Intelligence) para aplicação em análise de dados.
+
+Idiomas / Nível de Conhecimento: Inglês e espanhol fluente desejável
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dimensionality Reduction algorithms, Ensemble algorithms , Decision Trees, Clustering.
+
+
+
+
+
+Frameworks e bibliotecas : TensorFlow, Theano, CNTK, scikit-learn, Caffe, SparkMlib
+
+Additional information
+
+
+
+
+
+Frameworks e bibliotecas : TensorFlow, Theano, CNTK, scikit-learn, Caffe, SparkMlib
+
+
+
+
+
+Conheça mais sobre NÓS
+
+Fundada em 2007, a Inovation IT possuí 12 (Doze) anos de presença no mercado, atuando no segmento de tecnologia, destacando-se na prestação de serviços de Hunting / Recrutamento Especializado em TI.
+
+Site: http://www.inovation.com.br/
+
+Telefone: +55 (11) 3280-5645
+
+Setor: Tecnologia da informação e serviços
+
+Tamanho da empresa: 51-200 funcionários
+
+Tipo: Empresa privada
+
+Fundada em: 2007
+
+Conheça Mais Sobre Nós
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+Enviar mensagem direta ao anunciante da vaga na Rapicare
+Enrique Garcia-Muniz, Jr
+Co-Founder @Rapicare | Advisor | AI & Analytics Expert | Growth Hacker
+O time de Inteligência Artificial e Soluções da Rapicare está construindo a próxima geração de tecnologías em Natural Language Processing e ML aplicadas à saúde.
+A nossa Inteligencia Artificial Clínica ajuda empresas e pacientes a interagir com toda a cadeia de suprimentos virtualmente sem fricção.
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Provedor de assistência médicaTecnologia da informação
+Setores
+Atendimento médico e hospitalarSoftware
+descrição
+
+Desenvolvimento de Software
+Banco de Dados
+SAP - módulo PM
+Experiência em BI
+
+SALÁRIO: A COMBINAR
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+O PicPay é uma plataforma de pagamento criada para quebrar barreiras e eliminar burocracias. Nós existimos para melhorar a vida das pessoas e só conseguimos fazer isso porque temos pessoas fantásticas aqui dentro.
+
+O que você vai fazer por aqui? Buscamos pessoas que sejam apaixonadas por grandes volumes de dados, curiosas e engajadas. Manda bem nos requisitos abaixo?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O que temos de legal por aqui?
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Bancos
+Criar. Transformar. Aqui você tem a oportunidade de construir e deixar seu legado. Está preparado(a) para transformar o seu futuro?
+
+CIENTISTA DE DADOS
+
+Buscamos um Cientista de Dados disposto (a) a impulsionar a TIVIT em seus desafios de transformação.
+
+
+
+
+#VemTransformar!
+
+Curitiba
+
+
+
+Vale Transporte;
+
+Vale Refeição ou Alimentação;
+
+Plano de Saúde e Odontológico;
+
+Convênio Farmácia;
+
+Auxílio Creche;
+
+Seguro de Vida;
+
+Gympass;
+
+PAC - Programa de aceleração de carreira;
+
+Reembolso para cursos e certificações;
+
+TecnoTIVIT & TIVITAcademy - Educação Corporativa com cursos EAD e presencial.
+
+CLT
+
+
+
+Nós somos uma multinacional brasileira de soluções digitais com operações em dez países da América Latina. Apoiamos a evolução dos negócios de nossos clientes a partir das nossas quatro linhas de negócios: Digital Business, Cloud Solutions, Digital Payments e Technology Platforms.
+
+
+
+
+
+
+O time de Digital Business é responsável por entender os desafios de negócio dos nossos clientes e desenvolver, por meio de metodologias ágeis e com tecnologias emergentes, como Big Data, IoT, Analytics e Blockchain, soluções personalizadas e que trazem mais eficiência e produtividade às operações.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso as informações completas sobre a empresa.
+
+Precisamos de um Cientista de Dados para compor nosso time de Growth e atuar ao lado de profissionais de tecnologia, marketing, conteúdo e moda. Será responsável por entender questões de negócio e desenvolver soluções utilizando análises estatísticas e modelos de machine learning, coletando e preparando bases de dados para as análises, realizando exploração dos dados, teste de hipóteses, identificando insights e validando com as áreas de negócio.
+
+
+
+
+
+Não
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+
+Temos sede por transformar nosso conhecimento técnico-científico em respostas para problemas complexos do mundo da engenharia e software.
+
+Precisamos de pessoas ágeis, éticas,
+
+comprometidas com a entrega e que estejam em constante
+
+busca por aprendizado e novos desafios. Queremos
+
+essas pessoas para compor o nosso time e, juntos, no que diz respeito à inovação e soluções
+
+tecnológicas pelos diversos setores da indústria.
+
+Estamos expandindo e tornando a nossa
+
+presença cada vez mais poderosa! Que tal fazer parte disso?
+
+Main responsibilities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional information
+
+
+
+
+
+Seja bem-vindo à Radix
+
+Ser radixiano é fazer acontecer! Se você é e gosta de superar desafios de maneira colaborativa, tem um lugar no nosso time te esperando. Aqui, a gente investe em , e para transformar conhecimento técnico-científico em resultados.
+
+
+
+Oferecemos serviços e soluções altamente qualificados e com independência tecnológica para atender as principais indústrias de processo do Brasil e do mundo. Estamos presentes nos mercados de Óleo & Gás, Petroquímico, Químico, Metais e Mineração, Papel e Celulose, Alimentos e Bebidas, Geração de Energia e Mídia e Entretenimento.
+
+Acompanhe nossas redes!
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+Enviar mensagem direta ao anunciante da vaga na CI&T
+Fabíola Martins
+Talent Acquisition na CI&T | Tech Recruiter | Psicóloga
+Buscamos um Cientista de Dados, que tenha formação quantitativa em áreas como Matemática Aplicada, Estatística, Física, Computação, Engenharia ou Economia, para resolver grandes desafios usando modelos estatísticos, machine learning e solucionar problemas de nossos clientes, aplicando o método científico para testar e validar hipóteses de negócio. Essa pessoa atuará utilizando dados estruturados e não-estruturados (documentos, imagens, vídeos) e empregará técnicas multivariadas, modelos preditivos e análises exploratórias.
+
+
+
+
+Buscamos pessoas que são conectadas com a transformação digital, que gostam de compartilhar e aprender novas tecnologias contribuindo com as comunidades e com a CI&T. Além disso que tenham match cultural conosco, respeitando as diferenças, trabalhando com colaboração e teamwork.
+Eai? Se animou?!
+Então conclua a sua inscrição e boa sorte =D
+#MidSenior
+
+
+Todas as nossas vagas se destinam também para pessoas com deficiência.
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Empresa Contratante
+
+Empresa Contratante: Fundep – Fundação de Desenvolvimento e Pesquisa
+Ramo da Atividade: gestão de projetos de ensino, pesquisa e extensão
+
+A Fundep é uma instituição que realiza a gestão de projetos de ensino, pesquisa e extensão da Universidade Federal de Minas Gerais e de outras instituições e centros de inovação. Sua experiência permite que o pesquisador, o professor e cientista foquem nas suas atribuições, enquanto a Fundação realiza ações administrativas e financeiras inerentes aos projetos, como compras, importações, contratação de pessoal, contabilidade e prestação de contas.
+
+Dados da Vaga
+
+
+Projeto 24681
+
+Requisitos/Perfil Desejado
+
+
+Atribuições e Responsabilidades
+
+
+
+Envio de Currículos
+
+Envio de currículos até dia 04 de Outubro de 2018
+(Até às 17 horas)
+
+Por gentileza, somente enviar currículo profissionais que atendam as exigências da vaga,
+de forma a economizar seu tempo e do recrutador.
+
+
+
+Divulgação
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Ensino superiorPesquisaBiotecnologia
+Empresa Contratante
+
+Empresa Contratante: FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo
+Ramo da Atividades: Fomento à pesquisa científica e tecnológica
+A Fundação de Amparo à Pesquisa do Estado de São Paulo é uma das principais agências de fomento à pesquisa científica e tecnológica do país. Com autonomia garantida por lei, a FAPESP está ligada à Secretaria de Desenvolvimento Econômico, Ciência, Inovação e Tecnologia do Governo do Estado de São Paulo.
+
+Com um orçamento anual correspondente a 1% do total da receita tributária do Estado, a FAPESP apoia a pesquisa e financia a investigação, o intercâmbio e a divulgação da ciência e da tecnologia produzida em São Paulo.
+
+Dados da Vaga
+
+
+
+Sobre da Bolsa
+
+
+
+
+
+
+
+
+
+Requisitos/Perfil Desejado
+
+Observação
+
+
+Envio de Currículos
+
+Envio de currículos até dia 14 de Abril de 2018
+
+Por gentileza, somente enviar currículo profissionais com ,
+de forma a economizar seu tempo e do recrutador.
+
+
+
+
+
+
+Divulgação
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+PesquisaAnalistaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Ensino superiorPesquisa
+Nível: Especialista
+Área: Marketing
+Escolaridade: Ensino médio - Completo
+Tipo de contrato: PJ
+Jornada de trabalho: Horário flexível Trabalho remoto
+
+
+Ajuda de Custo de R$ 150,00, Vale alimentação de R$ 414,00, Vale refeição de R$ 414,00, Bonificação por resultado
+
+
+
+
+
+Como Growth Hacker na Marfin você vai liderar os experimentos de marketing e ser nossx cientista malucx para encontrar novos canais de tráfego viral e massivo. Sua missão vai ser escalar exponencialmente os visitantes no nosso site e ajudá-los a converter em leads e clientes com testes A/B. Se você é apaixonadx por dados e é detalhista nos números, essa vaga é para você.
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Internet
+Cientista de Dados - Nível Sênior - São Paulo/SP Sólida experiência em estatística descritiva, com capacidade de exploração de dados utilizando Python e base Hive; Contratação por tempo indeterminado; Atuação remota durante a pandemia (após este período, possibilidade de alocação em Alphaville).
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+
+Local : Vila Olímpia
+
+Tipo Contratação : CLT
+
+Tempo : Indeterminado
+
+Início : Imediato
+
+Ramo de Atuação : Soluções/Gestão Saúde
+
+Main responsibilities
+
+
+
+
+
+
+
+Conhecimento Diferencial :
+
+
+
+Conheça mais sobre NÓS
+
+Fundada em 2007, a Inovation IT possuí 12 (Doze) anos de presença no mercado, atuando no segmento de tecnologia, destacando-se na prestação de serviços de Hunting / Recrutamento Especializado em TI.
+
+Site: http://www.inovation.com.br/
+
+Telefone: +55 (11) 3280-5645
+
+Setor: Tecnologia da informação e serviços
+
+Tamanho da empresa: 51-200 funcionários
+
+Tipo: Empresa privada
+
+Fundada em: 2007
+
+Conheça Mais Sobre Nós
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+Empresa Contratante
+
+Empresa Contratante: FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo
+Ramo da Atividades: Fomento à pesquisa científica e tecnológica
+A Fundação de Amparo à Pesquisa do Estado de São Paulo é uma das principais agências de fomento à pesquisa científica e tecnológica do país. Com autonomia garantida por lei, a FAPESP está ligada à Secretaria de Desenvolvimento Econômico, Ciência, Inovação e Tecnologia do Governo do Estado de São Paulo.
+
+Com um orçamento anual correspondente a 1% do total da receita tributária do Estado, a FAPESP apoia a pesquisa e financia a investigação, o intercâmbio e a divulgação da ciência e da tecnologia produzida em São Paulo.
+
+Dados da Vaga
+
+
+
+Sobre da Bolsa
+
+
+
+
+
+
+
+
+Requisitos/Perfil Desejado
+
+Observação
+
+
+Envio de Currículos
+
+Envio de currículos até dia 14 de Abril de 2018
+
+Por gentileza, somente enviar currículo profissionais com ,
+de forma a economizar seu tempo e do recrutador.
+
+
+
+
+
+
+Divulgação
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+PesquisaAnalistaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Ensino superiorPesquisa
+Criar. Transformar. Aqui você tem a oportunidade de construir e deixar seu legado. Está preparado(a) para transformar o seu futuro?
+
+ENGENHEIRO (A) DE DADOS
+
+Buscamos um (a) Engenheiro(a) de Dados disposto (a) a impulsionar a TIVIT em seus desafios de transformação.
+
+
+
+
+#VemTransformar!
+
+São Paulo
+
+
+
+Vale Transporte;
+
+Vale Refeição ou Alimentação;
+
+Plano de Saúde e Odontológico;
+
+Convênio Farmácia;
+
+Auxílio Creche;
+
+Seguro de Vida;
+
+Gympass;
+
+PAC - Programa de aceleração de carreira;
+
+Reembolso para cursos e certificações;
+
+TecnoTIVIT & TIVITAcademy - Educação Corporativa com cursos EAD e presencial;
+
+PLR, mediante política interna.
+
+CLT
+
+
+
+Nós somos uma multinacional brasileira de soluções digitais com operações em dez países da América Latina. Apoiamos a evolução dos negócios de nossos clientes a partir das nossas quatro linhas de negócios: Digital Business, Cloud Solutions, Digital Payments e Technology Platforms.
+
+
+
+
+
+
+O time de Digital Business é responsável por entender os desafios de negócio dos nossos clientes e desenvolver, por meio de metodologias ágeis e com tecnologias emergentes, como Big Data, IoT, Analytics e Blockchain, soluções personalizadas e que trazem mais eficiência e produtividade às operações.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Empresa Contratante
+
+Empresa Contratante: Fundep – Fundação de Desenvolvimento e Pesquisa
+Ramo da Atividade: gestão de projetos de ensino, pesquisa e extensão
+
+A Fundep é uma instituição que realiza a gestão de projetos de ensino, pesquisa e extensão da Universidade Federal de Minas Gerais e de outras instituições e centros de inovação. Sua experiência permite que o pesquisador, o professor e cientista foquem nas suas atribuições, enquanto a Fundação realiza ações administrativas e financeiras inerentes aos projetos, como compras, importações, contratação de pessoal, contabilidade e prestação de contas.
+
+O CTNano é referência nacional no desenvolvimento de aplicações utilizando nanomateriais de carbono e está equipado para realização de caracterização físico-química de nanomateriais, desenvolvimento de compósitos e cimento anoestruturados, sensores e síntese de nanomateriais.
+
+Dados da Vaga
+
+
+
+Requisitos/Perfil Desejado
+
+
+Atribuições e Responsabilidades
+
+
+Observação
+
+
+
+Candidatura/Envio de Currículos
+
+Envio de currículos até dia 31 de Agosto de 2017
+
+Por gentileza, somente enviar currículo profissionais com ,
+de forma a economizar seu tempo e do recrutador.
+
+
+
+Divulgação
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+PesquisaAnalistaTecnologia da informação
+Setores
+Ensino superiorPesquisaBiotecnologia
+Temos sede por transformar nosso conhecimento técnico-científico em respostas para problemas complexos do mundo da engenharia e software.
+
+Precisamos de pessoas ágeis, éticas, comprometidas com a entrega e que estejam em constante busca por aprendizado e novos desafios. Queremos essas pessoas para compor o nosso time e, juntos, tornarmos a Radix uma empresa Top of Mind no que diz respeito à inovação e soluções tecnológicas pelos diversos setores da indústria.
+
+Estamos expandindo e tornando a nossa presença cada vez mais poderosa! Que tal fazer parte disso?
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+Atuará como cientista de dados sênior.
+
+Beneficios
+
+Vale Refeição; Assistência Médica; Seguro de vida; Assistência Odontológica;
+
+
+
+Ensino superior completo. Mestre em Ciência da Computação, Matemática, Estatística, Economia, Engenharia ou áreas correlatas.
+
+
+
+Experiência em gerenciamento de projetos. Necessário experiência acumulada entre Ciência de Dados, Matemática Aplicada e Estatística aplicada. Experiência com a elaboração de comunicações e apresentações orais e escritas. Experiência com exploração de dados. Experiência em Data Mining. Experiência em machine learning (regressão, classificação, clusterização, técnicas de redução de dimensionalidade, métricas de avaliação de modelos, validação cruzada, bootstraping, ensemble e stacking de modelos, séries temporais, etc). Experiência em deep learning (ANN, CNN, RNN, etc). Conhecimento de ferramentas de visualização de dados. Experiência em análise e resolução de problemas. Experiência em programação Python e seu ecossistema de análise de dados (Pandas, Scikit-Learn, Numpy). Experiência com R, Matlab ou Octave. Experiência na extração e análise de banco de dados. Experiência com processos de ETL de dados. Experiência em Data Cleaning e Data Wrangling (Feature Engineering). Experiência em g
+
+
+
+12000
+
+
+
+Coordenador de projetos de sistemas
+
+
+
+Meta Consultoria em Recursos Humanos
+
+CONSULTORIA E RECURSOS HUMANOS.
+
+
+
+Recursos Humanos/ Recrutamento e seleção
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços Recursos humanosConsultoria de gerenciamento
+Job Description
+
+Atuar em equipe de Soluções para Negócios
+
+Ramo de atuação : Empresa Digital - Ramo Vendas Automotivos
+
+Vaga FIXA CLT com EXCELENTES BENEFÍCIOS + PLR e Plano de Carreira
+
+Local de Trabalho :Vila Olímpia - São Paulo
+
+Main responsibilities
+
+
+
+Curioso e antenado com tecnologia, comunicativo , acostumado com apresentações,
+
+trabalho em equipe.
+
+Alinhado com resultados e objetivos da empresa, solucionar de problemas,
+
+inovador em modelos de levantamento e enriquecimento de dados.
+
+Analítico, deve entender a estratégia de negócio.
+
+Trabalhar com analise de banco de dados on-premisse gigantesco na plataforma AWS
+
+Propor novas soluções que virem Projetos na Área de Negócios - Modelos de predição de Vendas
+
+para campanhas de Marketing Direcionado
+
+
+
+Cientista de Dados - Modelagem + Machine Learning + Deep Learning
+
+
+
+
+
+Tecnologias Desejadas ( Empresa Totalmente Livre para Escolha de Utilização de Ferramentas/Tecnologias )
+
+Não são necessárias todas , apenas possibilidades !
+
+
+
+Dimensionality Reduction algorithms, Ensemble algorithms , Decision Trees, Clustering.
+
+
+
+
+
+
+
+Frameworks e bibliotecas : TensorFlow, Theano, CNTK, scikit-learn, Caffe, SparkMlib
+
+Conheça mais sobre NÓS
+
+Fundada em 2007, a Inovation IT possuí 12 (Doze) anos de presença no mercado, atuando no segmento de tecnologia, destacando-se na prestação de serviços de Hunting / Recrutamento Especializado em TI.
+
+Site: http://www.inovation.com.br/
+
+Telefone: +55 (11) 3280-5645
+
+Setor: Tecnologia da informação e serviços
+
+Tamanho da empresa: 51-200 funcionários
+
+Tipo: Empresa privada
+
+Fundada em: 2007
+
+Conheça Mais Sobre Nós
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+Criar. Transformar. Aqui você tem a oportunidade de construir e deixar seu legado. Está preparado(a) para transformar o seu futuro?
+
+ENGENHEIRO (A) DE DADOS
+
+Buscamos um (a) Engenheiro(a) de Dados disposto (a) a impulsionar a TIVIT em seus desafios de transformação.
+
+
+
+
+#VemTransformar!
+
+Curitiba
+
+
+
+Vale Transporte;
+
+Vale Refeição ou Alimentação;
+
+Plano de Saúde e Odontológico;
+
+Convênio Farmácia;
+
+Auxílio Creche;
+
+Seguro de Vida;
+
+Gympass;
+
+PAC - Programa de aceleração de carreira;
+
+Reembolso para cursos e certificações;
+
+TecnoTIVIT & TIVITAcademy - Educação Corporativa com cursos EAD e presencial.
+
+CLT
+
+
+
+Nós somos uma multinacional brasileira de soluções digitais com operações em dez países da América Latina. Apoiamos a evolução dos negócios de nossos clientes a partir das nossas quatro linhas de negócios: Digital Business, Cloud Solutions, Digital Payments e Technology Platforms.
+
+
+
+
+
+
+O time de Digital Business é responsável por entender os desafios de negócio dos nossos clientes e desenvolver, por meio de metodologias ágeis e com tecnologias emergentes, como Big Data, IoT, Analytics e Blockchain, soluções personalizadas e que trazem mais eficiência e produtividade às operações.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Job Description
+
+Estamos à procura de uma pessoa apaixonada pela cultura Data Driven, que irá transformar dados em informação, informação em insights e insights em decisões estratégicas de negócio. Colaboração e proatividade são elementos-chave para tornar-se integrante da equipe de Analytics da Vindi.
+
+Main responsibilities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+
+Atuar em equipe de Soluções para Negócios
+
+Ramo de atuação : Saúde
+
+Vaga FIXA CLT com PLR.
+
+Local de Trabalho : Zona Sul - São Paulo
+
+
+
+Curioso e antenado com tecnologia, comunicativo , acostumado com apresentações,
+
+trabalho em equipe.
+
+Alinhado com resultados e objetivos da empresa, solucionar de problemas,
+
+inovador em modelos de levantamento e enriquecimento de dados.
+
+Analítico, deve entender a estratégia de negócio.
+
+Trabalhar com analise de banco de dados on-premisse gigantesco e pouco utilizado para
+
+propor novas soluções que virem Projetos na Àrea de Negócios e de Medicina
+
+com objetivo de reduzir custos Operacionais e agregar valor aos clientes da Corporação
+
+Main responsibilities
+
+Cientista de Dados ( Estatístico )
+
+
+
+
+
+
+
+
+
+Dimensionality Reduction algorithms, Ensemble algorithms , Decision Trees, Clustering.
+
+
+
+
+
+
+
+
+
+Frameworks e bibliotecas : TensorFlow, Theano, CNTK, scikit-learn, Caffe, SparkMlib
+
+Conheça mais sobre NÓS
+
+Fundada em 2007, a Inovation IT possuí 12 (Doze) anos de presença no mercado, atuando no segmento de tecnologia, destacando-se na prestação de serviços de Hunting / Recrutamento Especializado em TI.
+
+Site: http://www.inovation.com.br/
+
+Telefone: +55 (11) 3280-5645
+
+Setor: Tecnologia da informação e serviços
+
+Tamanho da empresa: 51-200 funcionários
+
+Tipo: Empresa privada
+
+Fundada em: 2007
+
+Conheça Mais Sobre Nós
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecrutamento e seleção
+Temos sede por transformar nosso conhecimento técnico-científico em respostas para problemas complexos do mundo da engenharia e software.
+
+Precisamos de pessoas ágeis, éticas,
+
+comprometidas com a entrega e que estejam em constante
+
+busca por aprendizado e novos desafios. Queremos
+
+essas pessoas para compor o nosso time e, juntos, no que diz respeito à inovação e soluções
+
+tecnológicas pelos diversos setores da indústria.
+
+Estamos expandindo e tornando a nossa
+
+presença cada vez mais poderosa! Que tal fazer parte disso?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços
+Atividades Propostas Para a Função
+Desenvolver modelos estatísticos;
+Capturar, tratar, limpar, modelar e armazenar dados garantindo a integridade e consistência com a origem, para fazer análises e desenvolvimento de modelos;
+
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Recursos humanosServiços financeirosContabilidade
+Vaga para Cientista de Dados em projeto de melhoria de analisadores virtuais com refinamento de algoritmos de Machine Learning.
+
+Responsabilidades e atribuições
+
+
+
+
+
+
+
+
+
+
+bibliotecas de machine learning. Se Python: pandas, scikitlearn, numpy, Matplotlib.
+
+
+
+e não-supervisionados (clsuterização e agrupamentos) para problemas reais.
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Não aplicável
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços
+Job Description
+
+Já pensou em trabalhar em um lugar em constante transformação digital , inovação, colaboração e crescimento? Aqui é o lugar!
+
+Se você tem paixão por tecnologia e pessoas, empatia, foco em resultados e gosta de mudanças, faça parte de tudo isso!
+
+Estamos sempre inovando e buscando trabalhar com as melhores tecnologias do mundo. Nosso time de tecnologia conta com Agile coach, desenvolvedores Mobile, profissionais full stack, BPM, DevOps, Cloud e outros.
+
+Nosso compromisso com a valorização da Diversidade está presente em todas as nossas oportunidades. Acreditamos no potencial humano para desenvolver talentos e gerar inovação para nossos clientes. Aqui você pode ser quem você é!
+
+Se você se identificou #deumatch!
+
+Main responsibilities
+
+
+
+Santander Tecnologia
+
+Somos, antes de mais nada, uma empresa de tecnologia. No Geração Digital, nosso hub de tecnologia, as equipes contam com a estrutura ideal para permitir um trabalho ágil, eficiente e inovador em um ambiente aberto e flexível. Junte-se a nós e trabalhe com profissionais referência no mercado.
+
+Conheça mais sobre nós
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Já pensou em trabalhar em um lugar em constante transformação digital, inovação, colaboração e crescimento? Aqui é o lugar!
+
+Se você tem paixão por tecnologia e pessoas, empatia, foco em resultados e gosta de mudanças, faça parte de tudo isso!
+
+Estamos sempre inovando e buscando trabalhar com as melhores tecnologias do mundo. Nosso time de tecnologia conta com Agile coach, desenvolvedores Mobile, profissionais full stack, BPM, DevOps, Cloud e outros.
+
+Nosso compromisso com a valorização da Diversidade está presente em todas as nossas oportunidades. Acreditamos no potencial humano para desenvolver talentos e gerar inovação para nossos clientes. Aqui você pode ser quem você é!
+
+Se você se identificou #deumatch!
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Pleno-sênior
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Bancos
+Segmento de Atuação : Concessões/Adm - Rodovias
+
+Período : Indeterminado
+
+Horário de Trabalho: Comercial
+
+Tipo de Contratação : CLT
+
+Local : Jundiai
+
+Inicio : Imediato
+
+Benefícios : VA ou VR , VT , Vida , Odonto, Previdencia Conjunta , Gynmpass, + PLR
+
+
+
+ÁREA / SETOR: Desenvolvimento de Produtos e Serviços de TI
+
+Formação Acadêmica : Matemática, Estatística, Ciência da Computação, Análise de Sistemas ou qualquer Engenharia da área de exatas.
+
+Cursos / Certificações / Conhecimentos: Amplo conhecimento em ferramentas de extração e análise de dados, bancos de dados e estruturas de armazenamento de dados, conhecimentos sólidos em métodos e ferramentas em análises estatísticas, conhecimento e conceitos de análise preditiva e AI (Artificial Intelligence) para aplicação em análise de dados.
+
+Idiomas / Nível de Conhecimento: Inglês e espanhol fluente desejável
+
+
+
+
+
+
+
+Dimensionality Reduction algorithms, Ensemble algorithms , Decision Trees, Clustering.
+
+
+
+Frameworks e bibliotecas : TensorFlow, Theano, CNTK, scikit-learn, Caffe, SparkMlib
+
+
+
+
+
+Frameworks e bibliotecas : TensorFlow, Theano, CNTK, scikit-learn, Caffe, SparkMlib
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços
+Vaga de CIENTISTA DE DADOS em Minas Gerais. A combinar. Período Integral. Efetivo – CLT Área e especialização profissional: Informática, TI, Telecomunicações - Programador / Desenvolvedor Nível hierárquico: Especialista Local de trabalho: Belo Horizonte, MG Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Conhecimento em: modelos de predição, classificação, validação estatísticas e desenvolvimento em Python. Formação na área de exatas: Estatística, Matemática, Ciência da Computação, Sistemas de Informação, Engenharia e afins.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços TelecomunicaçõesRecursos humanos
+Gente é tudo pra gente_
+
+Pessoas são o nosso maior ativo, pois cuidam do nosso bem mais precioso: o cliente. Por isso, vivemos verdadeiramente a nossa cultura organizacional, valorizamos e respeitamos a diversidade e o protagonismo dos nossos colaboradores em todas as nossas relações. Aqui, fazemos o que é certo e queremos que você seja autêntico, inclusive na forma de se vestir, para exercer todo o seu potencial, focar no seu desenvolvimento e nas soluções para os nossos clientes. Na Tecnologia, nossos times são multidisciplinares, com diversas especialidades, e trabalham com práticas ágeis e lean, focadas no aprendizado contínuo e colaboração. Além disso, temos grupos de afinidade de raça, mulheres, LGBT e PCDs em que os colaboradores protagonizam pautas importantes da sociedade e contribuem com a transformação e centralidade no cliente que tanto buscamos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Você é um cientista de dados e tem experiência prática na aplicação de Machine Learning?
+
+Então chegou a sua hora!
+
+Estamos buscando alguém que possa projetar soluções para gestão de crédito através do desenvolvimento modelos estatísticos avançados.
+
+
+
+construir, treinar e otimizar modelos utilizando técnicas de aprendizado de máquina gerar insights, identificando oportunidades e propondo novas abordagens para os desafios de concessão e gestão de crédito
+
+ser responsável pelo alinhamento com áreas de negócio, engenharia de dados e BI
+
+realizar interface com consultorias de apoio e fornecedores de soluções tecnológicas
+
+fazer gestão, acompanhamento e recalibragem dos modelos implantados
+
+planejar e priorizar as frentes de avanço para o desenvolvimento de modelos
+
+auxiliar na expansão do uso da ciência de dados em outras frentes de negócio
+
+
+
+vivência na extração, limpeza, tratamento e organização dos dados
+
+domínio de técnicas de Machine Learning
+
+conhecimento nas principais linguagens de programação para análises estatísticas
+
+Ter boa comunicação, proatividade, flexibilidade e foco em resultado também são essenciais para você fazer parte do time de Modelagem.
+
+Ahh, e se você possuir pós-graduação ou mestrado em Estatística/Ciência de Dados, será um diferencial!
+
+A saúde, o cuidado e o bem-estar dos nossos colaboradores são nossa prioridade, por isso escolhemos as pessoas e estendemos o home office até dezembro de 2020. Nosso escritório fica na região da JK.
+
+
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Com objetivo de promover o crescimento das vendas e a satisfação dos consumidores de forma conjunta, a ArcelorMittal Brasil desenvolve uma série de ações para compreender as necessidades do cliente e do mercado, alimentando as áreas com informações estratégicas, para a busca de novos negócios, fidelização e encantamento dos clientes.
+
+Abaixo as principais informações sobre a vaga que temos em aberto.
+
+
+
+
+Implementação e manutenção de modelos de previsão/recomendações.
+
+
+
+
+
+A ArcelorMittal é uma empresa que valoriza a Diversidade e Inclusão. Por isso, incentiva que mulheres, pessoas com deficiência, diferentes raças e orientações sexuais se candidatem às vagas.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Manufatura de eletroeletrônicosRecrutamento e seleçãoRecursos humanos
+Estamos com mais um grande projeto estratégico e consequentemente: vagas abertas! - Cientista de dados pleno se você se identifica com alguma das vagas, entre em contato com nossa equipe
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Administração
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+A Compasso está procurando pessoas talentosas, inovadoras, comprometidas, inteligentes e que queiram ajudar a fazer a transformação digital acontecer em nossos clientes.
+
+Queremos conhecer você, que está em busca de carreira desafiadora e oportunidades de crescimento profissional.
+
+Buscamos profissional interessado em trabalhar com ciência de dados, entendendo a realidade do negócio e seu desafio, combinando pesquisa, técnica e aplicação para desenvolver insights de dados. Se você é disposto a aprender e experimentar novas tecnologias e não tem medo de questionar ou trazer ideias novas - Esta é a oportunidade perfeita para você!
+
+O perfil explorador e proativo é o que mais procuramos.
+
+
+
+
+
+
+
+
+
+
+
+
+Experiência com ciência de dados no mercado financeiro é um diferencial.
+
+
+
+Essa contratação será feita por meio da CLT e permite o trabalho .
+
+Além dos benefícios contratuais da Compasso, nossos colaboradores contam com trilhas de capacitação para aprendizado de novas tecnologias e métodos, além de subsídios de até 100% para a realização de certificações.
+
+A Compasso conta com uma unidade dedica a Data & Analytics, na qual um grupo de especialistas atua como evangelistas para ajuda na orientação do restante do time cross-clientes. Contamos com Chapters em Ciência e Engenharia de Dados para discussão e promoção de novas práticas e/ou soluções.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Job Description
+
+Buscamos Cientista de Dados.
+
+Main responsibilities
+
+Liderar projetos, realizar levantamento de necessidades e propor de soluções;
+
+Tratar a massa de dados (estruturados e não estruturados) e fazer uso de matemática e estatística para limpar, tratar e organizar os dados;
+
+Aplicar análises: Machine Learning e Inteligência Artificial para buscar soluções para os desafios de negócios;
+
+Limpar e organizar os dados para alimentar programas analíticos, envolvendo modelagem preditiva;
+
+Automatizar e propor insights que sejam repassados às áreas interessadas da empresa, rotineiramente.
+
+
+
+Graduação em Matemática, Ciência da Computação, Informática, Engenharia, Estatística e outras correlatas;
+
+Mínimo de um ano de experiência em linguagem de programação como R, Python, ferramentas de Data Science;
+
+Habilidade com números (Matemática, Estatística e Machine Learning).
+
+Additional information
+
+Desejável: Técnicas de apresentação dos resultados
+
+Está nascendo uma Nova BR
+
+Estamos em todo o país fazendo diferença no seu dia a dia. Escrevemos agora um novo capítulo nessa história, com muitas oportunidades e novos caminhos para levar pessoas e negócios a realizarem todo o seu potencial. Buscamos mais talentos que queiram fazer parte dessa transformação.
+
+Vem com a gente!!!
+
+
+
+Nossa empresa leva distribuição e conveniência a todos os cantos desse país continental. Somos a maior rede de postos do Brasil e estamos presentes onde for necessário. Não à toa, somos a rede preferida dos brasileiros. Você nos encontra em mais de 7.000 postos, distribuídos por todos os estados. Em nossos postos oferecemos produtos e serviços consagrados, como o lubrificante Lubrax, as gasolinas Petrobras Podium e Petrobras Grid, as lojas de conveniência BR Mania, o Cartão Petrobras, o centro de lubrificação Lubrax+ e o programa de fidelidade Petrobras Premmia.
+
+Também atuamos no segmento B2B, nas áreas de mineração, indústrias, transporte, agricultura, geração de energia, aviação e químicos, levando combustíveis, energia e conveniência aos nossos clientes.
+
+A BR tem essa energia toda porque tem a cara do Brasil! É movida por gente de todos os cantos e gostos, de diversas idades, etnias, gêneros, regiões e religiões, com o propósito de oferecer a distribuição e a conveniência necessárias para que pessoas e negócios realizem todo o seu potencial. E tudo isso com respeito ao meio ambiente, compromisso com a vida e inovação.
+
+Contatos
+
+Open for applications until: 05/08/2020
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Desafios Do Cargo
+
+Você trabalhará em um projeto com muita inovação, com um viés exploratório e objetivo de buscar respostas para problemas difíceis;
+
+Você desenvolverá modelos estatísticos de crédito e análise preditiva;
+
+Pesquisar, discutir e promover o uso de novas tecnologias para habilitar novas análises e negócios;
+
+Elaborar proativamente análises para direcionar decisões estratégicas nos produtos e na empresa;
+
+Fará parte de um projeto inovador e repleto de desafios que utiliza técnicas de Machine Learning e ferramentas de Big Data;
+
+Interface com os times de ciência de dados, engenharia, produto e comercial.
+
+
+
+Experiência preparando base de dados para modelagem (exemplo de ferramenta: SQL);
+
+Conhecimento em programação (exemplo de ferramenta: R e/ou Python);
+
+Adorar explorar soluções inovadoras para problemas difíceis;
+
+Formação em Estatística, Matemática ou Engenharia.
+
+
+
+Experiência com o desenvolvimento de modelos;
+
+Possuir vivência e conhecimento em produtos de Crédito.
+
+
+
+Participação nos Resultados (PPR);
+
+PAE - Programa de Assistência ao Empregado e Familiares, com atendimento de equipe multidisciplinar por telefone composta por Assistente Social, Psicólogos, Advogados e Nutricionistas 24 horas por dia, 7 dias da semana sem qualquer custo;
+
+Ambulatório com consultas assistenciais para dependentes legais, incluindo campanhas de vacinas sazonais;
+
+Assistência Médica (Bradesco);
+
+Assistência Odontológica (Bradesco);
+
+Vale-refeição/Alimentação;
+
+Transporte fretado com traslado da estação Antônio João à Boa Vista;
+
+Fretado (Conforme disponibilidade);
+
+Previdência Privada com coparticipação da Boa Vista;
+
+Seguro de vida;
+
+Convênio farmácia;
+
+Convênio SESC.
+
+
+
+Home Office, na maioria dos dias da semana (durante o período da pandemia 100% remoto);
+
+Jornada de 40 horas semanais em horário flexível;
+
+Day-off no dia do seu aniversário + ingresso para cinema;
+
+Espaços exclusivos para refeições, lazer e descanso com rede, bebidas quentes, frigobar, televisão, vídeo game, mesa de sinuca, ping-pong e outros jogos.
+
+
+
+Localizado em Alphaville.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Internet
+Descrição
+
+Buscamos um Especialista, para trabalhar em nossa área de Marketing.
+
+O que você vai fazer?
+
+
+
+Formação: Superior Completo em Análise de Sistemas, Ciência da Computação, Engenharia da Computação, Sistemas da Informação ou similares;
+
+Desejável: Pós-graduação
+
+
+
+
+
+
+
+Um ambiente descontraído, simples e ágil! Como estamos em expansão, muito aprendizado, desenvolvimento e desafios!
+
+Além disso, temos, Convênio Médico e odontológico, Seguro de vida, Gympass, PPR.
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+MarketingVendas
+Setores
+Marketing e publicidadeRecrutamento e seleçãoRecursos humanos
+Description: A MURABEI é uma start-up de Data Science com projetos muito interessantes e grandes perspectivas de crescimento.
+
+Atividades
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+Temos sede por transformar nosso conhecimento técnico-científico em respostas para problemas complexos do mundo da engenharia e software.
+
+Precisamos de pessoas ágeis, éticas, comprometidas com a entrega e que estejam em constante busca por aprendizado e novos desafios. Queremos essas pessoas para compor o nosso time e, juntos, no que diz respeito à inovação e soluções tecnológicas pelos diversos setores da indústria.
+
+Estamos expandindo e tornando a nossa presença cada vez mais poderosa! Que tal fazer parte disso?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+A empresa,ndo talentos para integrar a equipe.
+Cientista de dados
+Sênior - experiência: banco de dados -Dw
+Data lake
+Databricks
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Administração
+Setores
+Tecnologia da informação e serviços Recursos humanosBancos
+Temos sede por transformar nosso conhecimento técnico-científico em respostas para problemas complexos do mundo da engenharia e software.
+Precisamos de pessoas ágeis, éticas, comprometidas com a entrega e que estejam em constante busca por aprendizado e novos desafios. Queremos essas pessoas para compor o nosso time e, juntos, tornarmos a Radix uma empresa Top of Mind no que diz respeito à inovação e soluções tecnológicas pelos diversos setores da indústria.
+Estamos expandindo e tornando a nossa presença cada vez mais poderosa! Que tal fazer parte disso?
+Responsabilidades e atribuições
+
+
+
+Liderar as atividades de refinamento de algoritmos de Machine Learning;
+Propor novas técnicas de processamento de dados e treinamento de algoritmos preditivos;
+Desenvolver scripts para análise de dados, treinamento de algoritmos e parâmetros de otimização;
+Conduzir análise estatística de dados para comparação com análise de processo.
+Requisitos e qualificações
+Requisitos essenciais:Capacidade de análise de dados para modelagem estatística através do uso de ferramentas de machine learning por meio de aprendizado supervisionado (usando modelos de regressão e classificação), não supervisionado (por modelos de associação e clusterização) e noções de Reinforcement Learning.Conhecimento de modelos estatísticos clássicos como Classificação Naive Bayes, Extreme Gradient Boosting (XGBoost), Árvores de Decisão, Floresta aleatória ou Random Forest, Regressão Linear e logística, Algoritmos de Agrupamento (Clustering), SVM (Support Vector Machine), Análise de Componentes Principais, Algoritmos de redução dimensional, Ensemble Methods, Decomposição em valores singulares, Análise de componentes independentes, KNN (K-vizinhos mais próximos).Ser capaz de utilizar ferramentas e linguagens de análise como: Python, R, Spark e suas bibliotecas de dados e desejável conhecimento em Rapid Miner, Apache, Alteryx, SQL, Spotfire, SAP HANA, Pig, Tableau, Visual Basic, C, Micro S, SAS, SPSS IBM, Qlikview, Oracle, Java, Matlab.Capacidade analítica que exceda os limites de ferramentas, através de um olhar crítico.Capacidade de comunicação para dialogar sobre problemas de negócios e colaborar com especialistas.Conhecimentos avançados em ciência da computação, cálculo avançado, estatística e probabilidade.Formação: Graduação em Engenharia, Ciência da Computação, Tecnologia da Informação e afins.Experiência: Pelo menos 1 ano em programação e orientação a objetos.
+Informações adicionais
+Além da experiência de crescimento e troca de conhecimento, os nossos colaboradores têm acesso a:Vale Transporte;Vale Refeição;Plano de Saúde e Odontológico;Plano de Incentivo;?Programa de Desenvolvimento Profissional, entre outros benefícios.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Atividades
+Desenvolver a área de data science da empresa
+Implementar programas de gestão de relacionamento de clientes (crm)
+Capacidade de transformar dados em conhecimento para embasar e dar suporte ao desenvolvimento ações de marketing personalizadas e assertivas
+
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Desenvolvimento de negóciosVendas
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Software
+Algum cientista de dados, interessado em novas oportunidades? Quer atuar em uma startup de grande porte. Com o ambiente descontraído, grandes chances de crescimento profissional e atuar com tecnologias de ponta? Essa oportunidade é para você! Obs.: nossos processos estão sendo feito de forma remota! O que nós buscamos: profissionais com conhecimento sobre práticas e princípios ágeis.
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Administração
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+A Propz é uma empresa de tecnologia pioneira na aplicação de Inteligência Artificial para alavancar vendas no varejo físico. A combinação de CRM, Big Data e machine learning, aliada à expertise no segmento, personaliza de forma automatizada o envio de campanhas de marketing digital em múltiplos canais. A tecnologia verticalizada desenvolvida pela Propz é capaz de entender a jornada de consumo, predizer ofertas mais atraentes e reagir em tempo real, atingindo os consumidores certos no momento certo. Como resultado, aumentamos a rentabilidade dos nossos clientes e melhoramos a experiência do consumidor.
+
+O da Propz tem como principal desafio gerar valor através da elaboração, execução e adaptação de modelos, prezando por automatização e escalabilidade. Será responsável pela elaboração de dashboards e outras análises no intuito de posicionar o CRM como um instrumento de inteligência analítica aos parceiros da Propz. Procuramos um profissional com pensamento analítico para resolução de problemas, que seja capaz de transformar desafios em grandes conquistas. Terá interface constante com as outras equipes da Propz no Brasil, Rússia e Peru.
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+O PicPay é uma plataforma de pagamento criada para quebrar barreiras e eliminar burocracias. Nós existimos para melhorar a vida das pessoas e só conseguimos fazer isso porque temos pessoas fantásticas aqui dentro. O que você vai fazer por aqui?
+
+Aqui no PicPay, a posição de Data Product Leader é um expert em tirar as coisas do papel e fazer acontecer. Seu principal objetivo é auxiliar os/as Data Product Managers a executar a estratégia de dados para a área de negócio que estiver atuando, garantindo que ao mesmo tempo as necessidades do dia a dia do time estão sendo supridas e que os produtos de dados estão sendo criados com o foce em gerar valor ao negócio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O que temos de legal por aqui?
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Bancos
+O time de Inteligência da Vetsmart é formado por cientistas, engenheiros e analistas de dados e tem como principais objetivos a criação produtos/processos para as áreas de negócio tomarem decisões mais assertivas, automação de de processos e democratização do uso de dados.
+
+Nosso time é extremamente comprometido e colaborativo.
+
+Todos gostam de estudar bastante e a troca de feedbacks é constante!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+como tecnologia pode ajudar a construir a marca de beleza do futuro?
+
+Como uma marca "direct do consumer", temos toneladas de dados da nossa comunidade. buscamos alguém muito apaixonado por dados, análises, visualizações e insights para compor nosso chapter de Data na sallve. Reportará para o CTO.
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Internet
+Grupo [empresa confidencial] contrata: cientista de dados para a região do itaim bibi nível pleno / sênior
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Administração
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Job Description
+
+Buscamos Cientista de Dados com conhecimento em Salesforce.
+
+Main responsibilities
+
+Liderar projetos, realizar levantamento de necessidades e propor de soluções;
+
+Tratar a massa de dados (estruturados e não estruturados) e fazer uso de matemática e estatística para limpar, tratar e organizar os dados;
+
+Aplicar análises: Machine Learning e Inteligência Artificial para buscar soluções para os desafios de negócios;
+
+Limpar e organizar os dados para alimentar programas analíticos, envolvendo modelagem preditiva;
+
+Automatizar e propor insights que sejam repassados às áreas interessadas da empresa, rotineiramente.
+
+
+
+Graduação em Matemática, Ciência da Computação, Informática, Engenharia, Estatística e outras;
+
+1 ano de experiência com Salesforce Einstein Analytics, Einstein Discovery e Einstein Data Flows;
+
+Experiência em linguagem de programação como R, Python, ferramentas de Data Science;
+
+Habilidade com números (Matemática, Estatística e Machine Learning).
+
+Additional information
+
+
+
+Conhecimento funcional e experiência em implementação de módulos ou aplicações relativas a plataforma Salesforce (Sales, Service, Marketing);
+
+Técnicas de apresentação dos resultados.
+
+Está nascendo uma Nova BR
+
+Estamos em todo o país fazendo diferença no seu dia a dia. Escrevemos agora um novo capítulo nessa história, com muitas oportunidades e novos caminhos para levar pessoas e negócios a realizarem todo o seu potencial. Buscamos mais talentos que queiram fazer parte dessa transformação.
+
+Vem com a gente!!!
+
+
+
+Nossa empresa leva distribuição e conveniência a todos os cantos desse país continental. Somos a maior rede de postos do Brasil e estamos presentes onde for necessário. Não à toa, somos a rede preferida dos brasileiros. Você nos encontra em mais de 7.000 postos, distribuídos por todos os estados. Em nossos postos oferecemos produtos e serviços consagrados, como o lubrificante Lubrax, as gasolinas Petrobras Podium e Petrobras Grid, as lojas de conveniência BR Mania, o Cartão Petrobras, o centro de lubrificação Lubrax+ e o programa de fidelidade Petrobras Premmia.
+
+Também atuamos no segmento B2B, nas áreas de mineração, indústrias, transporte, agricultura, geração de energia, aviação e químicos, levando combustíveis, energia e conveniência aos nossos clientes.
+
+A BR tem essa energia toda porque tem a cara do Brasil! É movida por gente de todos os cantos e gostos, de diversas idades, etnias, gêneros, regiões e religiões, com o propósito de oferecer a distribuição e a conveniência necessárias para que pessoas e negócios realizem todo o seu potencial. E tudo isso com respeito ao meio ambiente, compromisso com a vida e inovação.
+
+Contatos
+
+Open for applications until: 05/08/2020
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Você gosta de tecnologia, quer trabalhar com equipes de alta performance e está disposto a contribuir de maneira proativa com a transformação digital do melhor atacado do Brasil?
+
+Além do amor por tecnologia, tem amor por criar soluções para o negócio?
+
+Quer usar a tecnologia como meio para criar soluções que melhorem a vida das pessoas e que atendam as necessidades dos clientes internos?
+
+Curte trabalhar com uma equipe parceira, amigável e colaborativa?
+
+É orientado ao negócio, com desejo de fazer mais pela sua carreira e pela empresa?
+
+Se você respondeu sim para todas estas perguntas, você tem o perfil que estamos procurando!
+
+Então inscreva-se!
+
+
+
+Utilizar dados e informações para conduzir o Marketing do E-Commerce à tomada de decisões mais assertivas, provendo melhores resultados.
+
+Disponibilizar análises e dados, gerar insights, mensurar resultados, criar automatizações, testar experimentações e validar ideias.
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Varejo
+Atuará com serviço de mlal ciência de dados e analytics, auxiliar o coe na construção, estruturação da governança, controle do ambiente.
+
+Beneficios
+
+A Combinar;
+
+
+
+Superior completo.
+
+
+
+Conhecimento de BANCO DE DADOS ACCESS, SQLSERVER e SSIS, ambiente AZURE, modelos estatísticos, datamining, algoritmos. Conhecimento em programação Phyton, R, e outras relacionadas a ML/AI.
+
+
+
+A combinar
+
+
+
+Administrador de banco de dados
+
+
+
+Tech For Projetos e Sistemas
+
+Consultoria em tecnologia da informação.
+
+
+
+Informática/ Tecnologia
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Estamos abrindo nos vagas o tempo inteiro, tanto para atuação conosco quanto para contratações para outras empresas.
+
+Esse banco de talento serve para todos os níveis, desde estagiários até especialistas, focado na área de Ciência de Dados.
+
+Sempre que abrirmos uma vaga nova relacionada no tema, iremos convidar todos que estão no banco para participar dela.
+
+Não é necessário cumprir com todos os requisitos da vaga, então não se preocupe com isso!
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Job Description
+
+A Ecobonuz é uma empresa mineira, pertencente ao Grupo Ipê, que desenvolveu o primeiro programa de fidelidade do Brasil para usuários do transporte coletivo urbano e rodoviário. A solução inovadora tem o propósito de incentivar a opção pela modalidade e transformar a experiência do cliente, por meio de um virtual que distribui benefícios aos usuários engajados com o serviço, sem que eles gastem nada a mais com isso.
+
+
+
+A plataforma se diferencia por oferecer uma coalizão do transporte coletivo com mais de 300 grandes redes do varejo e de serviços, com abrangência nacional, além de um sistema de inteligência de dados que pode apoiar as empresas e os municípios na gestão da mobilidade urbana. A Ecobonuz já está presente nos estados de Minas Gerais, São Paulo, Rio Grande do Sul e Pernambuco.
+
+Main responsibilities
+
+
+
+
+
+
+
+
+
+
+Additional information
+
+
+
+
+
+Conheça a Ipê Holding
+
+A é uma mineira especializada em e (soluções de fidelização), que reúne focadas em segmentos específicos da economia: a , voltada para o segmento de transporte coletivo urbano e rodoviário; a , dedicada ao fortalecimento de empresas do agronegócio nacional; e a , exclusiva para o setor de construção civil.
+
+As plataformas oferecem para gerar e os negócios de cada segmento, respeitando suas especificidades. A com e sua voltadas para a estão entre os diferenciais do grupo, que tem atuação nacional.
+
+
+
+É responsável pelo primeiro programa de fidelidade do Brasil para usuários do transporte coletivo urbano e rodoviário. A solução inovadora tem o propósito de incentivar a opção pela modalidade e transformar a experiência do cliente, por meio de um virtual que distribui benefícios aos usuários engajados com o serviço, sem que eles gastem nada a mais com isso.
+
+
+
+
+
+Desenvolve soluções para o fortalecimento do agronegócio brasileiro, por meio de estratégias de engajamento. Entre suas inovações estão: o programa de benefícios para o empreendedor rural, que converte em pontos as compras realizadas em uma rede de marcas de referência para a agropecuária em vários segmentos; e o Seedz , voltado para o desenvolvimento da força de vendas de empresas do setor.
+
+
+
+
+
+É o programa de vantagens criado para fidelizar e incentivar toda a cadeia construtiva. Atuamos em parceria com grandes empresas da construção nos segmentos: indústria, civil, infraestrutura, incorporação de edifícios e muitos outros.
+
+
+
+Conheça mais sobre nós
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Buscamos profissional com sólidos conhecimentos em arquiteturas de dados, metadados, qualidade de dados e processos de correção, administração de dados, capaz de compreender como os dados são coletados, mantidos e interpretados, combinando capacidades de cientista de dados com gerenciamento de dados. Ele será responsável pelo gerenciamento e proficiência dos dados armazenados, manejando tudo o que está relacionado ao processamento de dados, políticas de dados, diretrizes de dados e administrando as informações da organização em conformidade com as obrigações políticas e regulamentares. Indispensável domínio da língua inglesa. Requisitos requisitos: experiência em modelagem de dados (seguindo as arquiteturas de dw moderno) experiência em programação proficiência no banco de dados relacional conceitos de data warehousing ( armazenagem ) visão de negócios inglês e benefícios benefícios: assistências médica e odontológica bradesco seguros seguro de vida prudential gympass vales transporte e refeição.
+Exibir mais
+Nível de experiência
+Júnior
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Cientista de dados jr/pl experiência com modelagem estatística/técnicas estatísticas e programação (sas, r ou phyton). Desenvolver os scores de crédito e cobrança. Local de atuação:ção clt
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Administração
+Setores
+Tecnologia da informação e serviços SoftwareRecursos humanos
+Atuar em equipe de Soluções para Negócios
+
+Ramo de atuação : Empresa Digital - Ramo Vendas Automotivos
+
+Vaga FIXA CLT com EXCELENTES BENEFÍCIOS + PLR e Plano de Carreira
+
+Local de Trabalho :Vila Olímpia - São Paulo
+
+
+
+
+
+Curioso e antenado com tecnologia, comunicativo , acostumado com apresentações,
+
+trabalho em equipe.
+
+Alinhado com resultados e objetivos da empresa, solucionar de problemas,
+
+inovador em modelos de levantamento e enriquecimento de dados.
+
+Analítico, deve entender a estratégia de negócio.
+
+Trabalhar com analise de banco de dados on-premisse gigantesco na plataforma AWS
+
+Propor novas soluções que virem Projetos na Área de Negócios - Modelos de predição de Vendas
+
+para campanhas de Marketing Direcionado
+
+
+
+Cientista de Dados - Modelagem + Machine Learning + Deep Learning
+
+
+
+Tecnologias Desejadas ( Empresa Totalmente Livre para Escolha de Utilização de Ferramentas/Tecnologias )
+
+Não são necessárias todas , apenas possibilidades !
+
+Dimensionality Reduction algorithms, Ensemble algorithms , Decision Trees, Clustering.
+
+
+
+Frameworks e bibliotecas : TensorFlow, Theano, CNTK, scikit-learn, Caffe, SparkMlib
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Quais serão as suas responsabilidades?
+
+Desenvolver modelos de Machine Learning para endereçar problemas de negócios e alavançar resultados;
+
+Otimização e Automatização de processos preditivos;
+
+Desenvolver processos automáticos por meio da ferramenta SAS Guide, além de outras ferramentas de mercado, para garantir velocidade de entrega e assertividade no desenvolvimento de mailings para o público varejo;
+
+Contribuir com o desenvolvimento de estudos que possibilitem o ganho de performance para vendas na central de atendimento. Por meio de aquisição de dados externos e internos e estruturando esses processos para maior assertividade de modelos estatísticos;
+
+Desenvolver modelos de vendas baseadas em técnicas estatísticas e de Machine Learning como modelo de propensão, modelo de churn, de Cross Sell entre outros;
+
+Manipular as bases disponibilizadas pelos diversos sistemas, garantindo a qualidade e equidade com os relatórios disponibilizados pelos sistemas origem;
+
+Desenvolver e atualizar manuais / documentações dos processos implantados para apuração, geração de relatórios e afins, assegurando assim a gestão do conhecimento da automatização do processo na ferramenta SAS Guide.
+
+
+
+Formação Superior completa: Estatístico, Matemático, Sistema de Informação ou correlatas;
+
+Pacote Office Avançado;
+
+SAS Guide e SAS Base Avançado;
+
+Programação avançada em R e Python;
+
+Conhecimentos de ETL;
+
+Inglês: Intermediário.
+
+
+
+Flexibilidade de horário e dress code;
+
+Oportunidades de crescimento e desenvolvimento;
+
+Reconhecimento meritocrático;
+
+Ambiente de trabalho criativo e descontraído;
+
+Happy Friday.
+
+Venha fazer parte de uma empresa que tem como propósito inspirar empresas e despertar o melhor das pessoas! Como fazemos isso? Tendo a inovação em nosso DNA e paixão por servir, e é por isso que nos dedicamos para desenvolver as melhores soluções para os nossos clientes!
+
+Aqui você vai encontrar um ambiente que estimula a criatividade, incentiva a autonomia e te encoraja a se desafiar todos os dias. Com a liderança no mercado de benefícios, estamos presentes nos segmentos de alimentação, cultura, mobilidade e saúde e buscamos profissionais engajados e com grande senso de realização. Junte-se a nós! =)
+
+Alelo. Inteligência que conecta pessoas e negócios.
+
+#VemSerAlelo #AleloLovers #SangueVerde
+
+LOCAL DE TRABALHO: Alphaville - SP
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Recursos humanos
+Empresa admite Cientista de Dados em Rio de Janeiro (Zona Oeste) para atuar em Tempo integral, Comercial.
+
+Automatização de vários processos da área de Supply Chain desde as rotinas mais simples às mais complexas. Condução de projetos que envolvam ciência de dados que visam resolver problemas do negócio. Condução de projetos que envolvam engenharia de dados que visam resolver problemas do negócio. Automatização de relatórios e processos. Engenharia de dados. Estudos estatísticos.
+
+Empresa oferece contrato Efetivo, Refeição no local /
+vaga cód:1953699
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Recrutamento e seleçãoRecursos humanosVarejo
+Atuar em equipe de Soluções para Negócios
+
+Ramo de atuação : Saúde
+
+Vaga FIXA CLT com PLR.
+
+Local de Trabalho : Zona Sul - São Paulo
+
+
+
+Curioso e antenado com tecnologia, comunicativo , acostumado com apresentações,
+
+trabalho em equipe.
+
+Alinhado com resultados e objetivos da empresa, solucionar de problemas,
+
+inovador em modelos de levantamento e enriquecimento de dados.
+
+Analítico, deve entender a estratégia de negócio.
+
+Trabalhar com analise de banco de dados on-premisse gigantesco e pouco utilizado para
+
+propor novas soluções que virem Projetos na Àrea de Negócios e de Medicina
+
+com objetivo de reduzir custos Operacionais e agregar valor aos clientes da Corporação
+
+
+
+Cientista de Dados ( Estatístico )
+
+
+
+
+
+Dimensionality Reduction algorithms, Ensemble algorithms , Decision Trees, Clustering.
+
+
+
+
+
+Frameworks e bibliotecas : TensorFlow, Theano, CNTK, scikit-learn, Caffe, SparkMlib
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Local : Vila Olímpia
+
+Tipo Contratação : CLT
+
+Tempo : Indeterminado
+
+Início : Imediato
+
+Ramo de Atuação : Soluções/Gestão Saúde
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Esta é uma vaga para nosso Talent Pool. Isso significa que após sua aplicação, você avançará em etapas para conhecer mais sobre a Gupy e poderá ser selecionadx para executar nossas etapas normais de nosso processo seletivo e poderá ser pré-aprovadx. Assim, quando uma posição for aberta em nosso time, entraremos em contato com as pessoas pré-aprovadas para dar continuidade no processo de se tornar um/uma gupier!
+
+A Gupy é uma empresa de tecnologia que une um grupo de pessoas desenvolvedoras, engenheiras e cientistas apaixonados em gerar inovação. Somos movidos por grandes desafios e precisamos de pessoas que amem tecnologia, aprendizado constante, e que tenham muita gana para nos ajudarem a transformar a Gupy na melhor e maior empresa de Recrutamento Tech do Brasil.
+
+Atualmente temos um índice de desemprego muito alto no Brasil e uma guerra por talentos a todo vapor. Por isso, nosso propósito é oferecer contratações mais ágeis, justas e encantadoras para os nossos clientes e candidatos.
+
+Estamos crescendo muito rápido e criando a cada dia um produto ainda mais poderoso. O segredo disso? As pessoas incríveis que fazem parte conosco dessa construção contínua.
+
+Então, quer saber um pouco mais sobre nossos valores, rituais do dia a dia, modelo de trabalho de nossos gupiers, desafios e ainda ter a oportunidade de fazer parte dessa história?
+
+Se inscreva, e embarque nessa jornada com a gente!
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+VP: Marketing
+
+Área: DBM
+
+Local: Vila Cordeiro - São Paulo
+
+
+
+Esta posição tem como desafio ser responsável por entender a necessidade, identificar as origens, preparar e disponibilizar os dados para que os cientistas de dados desenvolvam os modelos estatísticos, fazem análises e segmentações. Atualmente 80% do tempo de um cientista de dados é gasto com essas atividades, com a introdução dessa nova especialidade, esse tempo será utilizado nas atividades core.
+
+
+
+
+
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Recursos humanos
+Description: Atividades:
+Desenvolver a área de Data Science da empresa;
+Implementar programas de Gestão de Relacionamento de Clientes (CRM);
+Capacidade de transformar dados em conhecimento para embasar e dar suporte ao desenvolvimento ações de marketing personalizadas e assertivas;
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Software
+Descrição da empresa
+
+Especializada em campanhas de mídia digitial, incluindo planejamento estratégico de campanhas, gestão de links patrocinados, SEO, web analytics e business intelligence para dar suporte às áreas de marketing das empresas que buscam de suas ações na Internet. A trabalha no planejamento e gestão de campanhas de mídia online, análise de métricas e dados, estratégias de posicionamento orgânico e inteligência de negócios.
+Descrição do emprego
+
+
+Qualificações
+
+
+
+
+
+
+
+
+
+
+Informações Adicionais
+
+Exibir mais
+Nível de experiência
+Estágio
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Internet
+Construir e manter uma base de dados limpa, com relevância; - Oferecer soluções e estudos para questões levantadas pelos clientes; - Analisar desempenho de campanhas de marketing on/offline; - Otimizar alocação de recursos em diferentes canais de marketing on/off; - Otimizar resultado de performance da área de Marketing; - Otimizar controles e resultados por meio de integrações e estruturas inteligentes. Para ser Especialista de Marketing, é importante: Formação: Superior Completo em Análise de Sistemas, Ciência da Computação, Engenharia da Computação, Sistemas da Informação ou similares; Desejável: Pós-graduação Conhecimento/Domínio: Diferenciais: - Conhecimento em Informática; - Noções de Marketing Digital; - Domínio em Pyton; - Domínio em Estatísticas; - Domínio em Power BI; - Domínio em banco de dados relacionais e não relacionais; - Conhecimento em tecnologia de Big Data (HDFS, Hive, Hadoop, Spark); - Conhecimento em Machine Learning e AL; - Noções em Google Analytics / Google Data Studio; - Conhecimento em Análise de Dados (Cientista de Dados).
+
+
+
+
+Não informado
+
+
+
+
+
+A combinar
+
+
+
+Analista de marketing
+
+
+
+Locamérica
+
+Locação de veículos.
+
+
+
+Automobilística/ Autopeças
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+MarketingVendas
+Setores
+Tecnologia da informação e serviços Recrutamento e seleçãoRecursos humanos
+O Cientista de Dados da mLabs integrará o squad de Tráfego e Performance e terá a missão primária de captar, estruturar e analisar dados de fontes diversas, com foco em análise de resultados e busca por insights para o time de marketing, apontando correções de rotas, movimentos futuros, entendendo comportamentos e necessidades do nosso cliente ideal e mensurando o ROI de todos os canais e iniciativas de marketing.
+
+
+
+
+
+
+
+
+
+
+
+Para cuidar dos nossos mLabers temos um pacote completo de benefícios:
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços
+Descrição da empresa
+
+Especializada em campanhas de mídia digitial, incluindo planejamento estratégico de campanhas, gestão de links patrocinados, SEO, web analytics e business intelligence para dar suporte às áreas de marketing das empresas que buscam de suas ações na Internet. A trabalha no planejamento e gestão de campanhas de mídia online, análise de métricas e dados, estratégias de posicionamento orgânico e inteligência de negócios.
+Descrição do emprego
+
+
+Qualificações
+
+
+
+
+
+
+
+
+
+
+Informações Adicionais
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Marketing e publicidadeTecnologia da informação e serviços Internet
+Axurians são profissionais apaixonados! Nós valorizamos a obsessão por eficiência e confiamos em pessoas maduras para lidar com toda a liberdade que proporcionamos no nosso ambiente. Entendemos que o respeito e o sentimento de dono são essenciais para manter o clima da nossa cultura e o relacionamento com o cliente sempre excelente. Nos guiamos por dados e a humildade intelectual deve sempre acompanhar nossos posicionamentos.
+
+Na Axur, você vai trabalhar em um nicho não convencional e com tecnologia de ponta, além de ter autonomia para a tomada de decisão em um ambiente descontraído e desafiador.
+
+Buscamos um(a) engenheiro de dados para trabalhar no nosso time de Machine Learning no escritório de Porto Alegre ou remotamente, atuando na na criação e desenvolvimento na infraestrutura dedicada às atividades de Machine Learning.
+
+
+
+
+
+
+Para a vaga são
+
+
+
+
+
+
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Tecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+About que utiliza inteligência artificial e visão computacional para criar sistemas incríveis nas áreas da saúde, segurança, transporte e varejo. Com sede no brasil e nos estados unidos, a hoobox desenvolve tecnologia de reconhecimento facial de alta precisão, e recentemente, lançou seu primeiro produto na ces 2019, a maior feira de tecnologia do mundo. A hoobox acredita na qualidade e no esforço do seu time para construir novas tecnologia e negócios de maneira acelerada. Na hoobox você vai trabalhar com times multidisciplinares. Vai ter o desafio de desenvolver produtos inovadores (tem que gostar de pesquisar) e pode ser que surjam demandas e oportunidades de última hora (nesses momentos você tem que ser proativo e multitasking). Esperamos que você tenha match com a cultura da empresa!!! Requisitos ter experiência em python e algumas de suas bibliotecas (numpy, scikit learn, pandas, seaborn e opencv) conhecimentos sólidos de machine learning (supervised and unsupervised), computer vision, neural network/deep learning, clustering, decision trees, statistics, prediction models, data visualization experiência com sistemas unix / linux estar familiarizado com ferramentas de trabalho em equipe como vcs (git) formado há
+
+ou mais. Diferencial boa relação interpessoal local hoobox sp / vila mariana são paulo envie seu cv para com o assunto cientista de dados sr labels alocação alocado regime pj nível pleno senior
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+que utiliza inteligência artificial e visão computacional para criar sistemas incríveis nas áreas da saúde, segurança, transporte e varejo. Com sede no brasil e nos estados unidos, a hoobox desenvolve tecnologia de reconhecimento facial de alta precisão, e recentemente, lançou seu primeiro produto na ces 2019, a maior feira de tecnologia do mundo. A hoobox acredita na qualidade e no esforço do seu time para construir novas tecnologia e negócios de maneira acelerada. Na hoobox você vai trabalhar com times multidisciplinares. Vai ter o desafio de desenvolver produtos inovadores (tem que gostar de pesquisar) e pode ser que surjam demandas e oportunidades de última hora (nesses momentos você tem que ser proativo e multitasking). Esperamos que você tenha match com a cultura da empresa!!! Requisitos -Ter experiência em python e algumas de suas bibliotecas (numpy, scikit learn, pandas, seaborn e opencv) -Conhecimentos sólidos de machine learning (supervised and unsupervised), computer vision, neural network/ deep learning, clustering, decision trees, statistics, prediction models, data visualization -experiência com sistemas unix / linux -Estar familiarizado com ferramentas de trabalho em equipe como vcs (git) -Formado há
+
+ou mais. Diferencial -Boa relação interpessoal local hoobox sp / vila mariana são paulo envie seu cv para com o assunto cientista de dados jr
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+EngenhariaTecnologia da informação
+Setores
+Tecnologia da informação e serviços SoftwareInternet
+Escolaridade
+
+Graduação Atribuições:
+
+Responsável por auxiliar o Cientista de Dados em atividades referentes a geração de informação para pesquisas, produtos e projetos da empresa.
+
+
+
+Ensino Superior CURSANDO em Administração ou Computação
+Conhecimento em Tecnologia
+Disponibilidade Comercial de Horário
+
+
+
+Conhecimento em Excel nível Intermediário
+
+
+
+Experiência Mínima: 6 meses com Banco de Dados
+
+
+
+Salário: R$ 1.200,00 Vale Transporte Diário: R$ 7,30 Vale Refeição Diário: A combinar
+
+
+
+Captação de Currículos
+Exibir mais
+Nível de experiência
+Assistente
+Tipo de trabalho
+Tempo integral
+Função
+Administração
+Setores
+Recrutamento e seleçãoRecursos humanosVarejo
+Projeto
+
+Web based Validation: Data analysis for automotive development process.
+
+Regime de atividade como Bolsista CNPq (Conselho Nacional de Desenvolvimento Científico Tecnológico) em Projeto de Inovação por 12 meses.
+
+
+
+Graduado (em até 5 anos);
+
+Engenharia de Controle e Automação / Eletrônica / Computação, Cientista de dados, Cientista da computação.
+
+
+
+Análise de dados, linguagens de programação (Python), programação HTML, conhecimento de eletrônica embarcada.
+
+
+
+
+
+Conforme o plano de atividades acordado com o Tutor do Projeto.
+Exibir mais
+Nível de experiência
+Estágio
+Tipo de trabalho
+Tempo integral
+Função
+Outro
+Setores
+Tecnologia da informação e serviços SoftwarePesquisa
